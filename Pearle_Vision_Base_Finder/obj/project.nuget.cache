@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "w092lFodeMWffJWsI9+VOyY5Ik7OujdSoimhzn7ep/KZ4aMSsl4MFzbqQswkLepv3kVykVwilyE4+D3RVsjf/Q==",
+  "dgSpecHash": "fpFt0hIab7EoY89vQ7Ad4V+QLrSYVeZn8Jy/qkwGdFIPhu8qQ6QVNP+oGLFY1YTLixsYLCD/xE1c9uojy6ad5g==",
   "success": true,
   "projectFilePath": "C:\\Users\\smudi\\source\\repos\\Pearle_Vision_Base_Finder\\Pearle_Vision_Base_Finder\\Pearle_Vision_Base_Finder.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\smudi\\.nuget\\packages\\lumenworkscsvreader\\4.0.0\\lumenworkscsvreader.4.0.0.nupkg.sha512"
+    "C:\\Users\\smudi\\.nuget\\packages\\lumenworkscsvreader\\4.0.0\\lumenworkscsvreader.4.0.0.nupkg.sha512",
+    "C:\\Users\\smudi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
   ],
   "logs": []
 }

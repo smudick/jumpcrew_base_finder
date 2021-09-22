@@ -1,0 +1,651 @@
+store # 21033079 is 9.74595788395843 miles away from Fort Buchanan
+store # 21033079 is 9.5930386429778 miles away from USCG Sector San Juan
+store # 21033079 is 9.534301719204532 miles away from USCG St. Croix
+store # 21054460 is 14.403590669822503 miles away from Fort Buchanan
+store # 21034260 is 13.666080845268748 miles away from Fort Buchanan
+store # 21091674 is 3.9520115610959135 miles away from Fort Buchanan
+store # 21091674 is 4.61824953025715 miles away from USCG Sector San Juan
+store # 21091674 is 4.6083795021018314 miles away from USCG St. Croix
+store # 21092293 is 5.94186878019124 miles away from Fort Buchanan
+store # 21092293 is 7.392173615973513 miles away from USCG Sector San Juan
+store # 21092293 is 7.3740123577704475 miles away from USCG St. Croix
+store # 21092325 is 6.864060803773708 miles away from Fort Buchanan
+store # 21092325 is 10.099317881706769 miles away from USCG Sector San Juan
+store # 21092325 is 9.998392536637095 miles away from USCG St. Croix
+store # 21127598 is 3.0040120503027223 miles away from Fort Buchanan
+store # 21127598 is 5.894592013103447 miles away from USCG Sector San Juan
+store # 21127598 is 5.7919528042754145 miles away from USCG St. Croix
+store # 21033221 is 3.0483479254064405 miles away from Fort Buchanan
+store # 21033221 is 4.81806757331545 miles away from USCG Sector San Juan
+store # 21033221 is 4.717138070227167 miles away from USCG St. Croix
+store # 21060723 is 1.4567597342323004 miles away from Fort Buchanan
+store # 21060723 is 4.043394368312342 miles away from USCG Sector San Juan
+store # 21060723 is 3.9747641773878897 miles away from USCG St. Croix
+store # 21092294 is 9.483333002320133 miles away from Fort Buchanan
+store # 21092294 is 9.691564358774121 miles away from USCG Sector San Juan
+store # 21092294 is 9.716363669031063 miles away from USCG St. Croix
+store # 21033461 is 10.990093026743752 miles away from Fort Buchanan
+store # 21033461 is 11.94415138683082 miles away from USCG Sector San Juan
+store # 21033461 is 11.950092123290895 miles away from USCG St. Croix
+store # 21054413 is 10.256575892162841 miles away from Hanscom AFB
+store # 21054413 is 5.949772240657851 miles away from USAG Natick SSC
+store # 21139991 is 11.845522694498863 miles away from CG Base Boston
+store # 21139991 is 3.198927051317653 miles away from Hanscom AFB
+store # 21054445 is 14.909130260227686 miles away from NAVOPSPTCEN Manchester NH
+store # 21026346 is 14.619306252611473 miles away from CG Base Boston
+store # 21026346 is 8.190014150804835 miles away from Hanscom AFB
+store # 21023483 is 7.775736366746994 miles away from CG Base Boston
+store # 21023483 is 12.491041316615956 miles away from Hanscom AFB
+store # 21025065 is 13.59060336706792 miles away from CG Base Boston
+store # 21025065 is 14.777841249329779 miles away from North Shore
+store # 21054411 is 9.899062314564324 miles away from CG Base Boston
+store # 21054411 is 14.736532746216 miles away from Hanscom AFB
+store # 21054411 is 8.95014303157357 miles away from NAVOPSPTCEN Quincy MA
+store # 21054411 is 9.69905562142489 miles away from USAG Natick SSC
+store # 21014384 is 0.6192864024707881 miles away from CG Base Boston
+store # 21014384 is 12.48554194464048 miles away from Hanscom AFB
+store # 21014384 is 7.708409555442645 miles away from NAVOPSPTCEN Quincy MA
+store # 21058962 is 1.7338856379606447 miles away from CG Base Boston
+store # 21058962 is 10.798847611292354 miles away from Hanscom AFB
+store # 21058962 is 9.24797467051429 miles away from NAVOPSPTCEN Quincy MA
+store # 21058962 is 14.951123687117898 miles away from USAG Natick SSC
+store # 21014351 is 4.656120152945829 miles away from CG Base Boston
+store # 21014351 is 13.081547780967073 miles away from Hanscom AFB
+store # 21014351 is 11.758705028302066 miles away from NAVOPSPTCEN Quincy MA
+store # 21026226 is 8.30566831727264 miles away from CG Base Boston
+store # 21026226 is 0.24154984389651923 miles away from NAVOPSPTCEN Quincy MA
+store # 21026267 is 11.83372965253157 miles away from NAVOPSPTCEN Quincy MA
+store # 21054425 is 10.995721282471674 miles away from NAVOPSPTCEN Quincy MA
+store # 21026325 is 9.26564446624978 miles away from CG Base Boston
+store # 21026325 is 10.47863172073504 miles away from Hanscom AFB
+store # 21026325 is 11.737822972129075 miles away from NAVOPSPTCEN Quincy MA
+store # 21026325 is 7.208694417227765 miles away from USAG Natick SSC
+store # C439 is 0.7997448759695281 miles away from NAVOPSPTCEN New London CT
+store # C439 is 0.32418751835826637 miles away from SUBASE New London
+store # C439 is 2.1283039335595784 miles away from USCG Academy
+store # 21027415 is 3.496446590571081 miles away from NAVOPSPTCEN New London CT
+store # 21027415 is 3.531645015097137 miles away from SUBASE New London
+store # 21027415 is 2.6478829065889253 miles away from USCG Academy
+store # 21054376 is 6.9147654577239805 miles away from Ankara Support Facility
+store # 21054376 is 8.700260531604167 miles away from Coast Guard Sector Long Island Sound, New Haven CT
+store # 21054405 is 3.9421873247554013 miles away from Ankara Support Facility
+store # 21054405 is 6.819538541039242 miles away from Coast Guard Sector Long Island Sound, New Haven CT
+store # 21082488 is 14.78225686712149 miles away from Sector New York
+store # 21018616 is 12.744626002890437 miles away from Picatinny Arsenal
+store # 21060155 is 14.644666933797042 miles away from NAVOPSPTCEN New York City NY
+store # 21018460 is 13.064899183407077 miles away from Naval Weapons Station Earle Mainside
+store # 21018460 is 10.30792705101357 miles away from NAVOPSPTCEN Earle Colts Neck NJ
+store # 21018460 is 3.789159882847949 miles away from Station Manasquan
+store # 21115765 is 7.4342170194705695 miles away from Naval Weapons Station Earle Mainside
+store # 21115765 is 9.131803104062056 miles away from Naval Weapons Station Earle Waterfront
+store # 21115765 is 6.370128871756876 miles away from NAVOPSPTCEN Earle Colts Neck NJ
+store # 21115765 is 12.664645587100445 miles away from Station Manasquan
+store # 21115765 is 12.87398339829979 miles away from US Coast Guard Base Sandy Hook
+store # 21018634 is 8.518511832148077 miles away from Naval Weapons Station Earle Mainside
+store # 21018634 is 7.724357704246509 miles away from NAVOPSPTCEN Earle Colts Neck NJ
+store # 21129391 is 2.3171557876278537 miles away from Picatinny Arsenal
+store # 21018644 is 4.500872994754469 miles away from Picatinny Arsenal
+store # 21139275 is 8.056616473486123 miles away from Picatinny Arsenal
+store # 21057215 is 12.723607843310523 miles away from Picatinny Arsenal
+store # 21117614 is 14.812849764220866 miles away from CG Sector Delaware Bay
+store # 21059485 is 12.06917918117109 miles away from CG Sector Delaware Bay
+store # 21059485 is 14.105900097582172 miles away from NSA Philadelphia
+store # 21054317 is 7.2799005304470095 miles away from CG Sector Delaware Bay
+store # 21054317 is 14.717304004206348 miles away from NSA Philadelphia
+store # 6865 is 4.861511347804058 miles away from Tracen Cape May
+store # 21024327 is 14.702428994018966 miles away from Fort Dix
+store # 21024327 is 12.377427164889529 miles away from Joint Base McGuire-Dix
+store # 21018417 is 7.249505111122627 miles away from Joint Base Lakehurst
+store # 21018417 is 11.01152086511411 miles away from Station Manasquan
+store # 21059023 is 14.801773003420433 miles away from Naval Weapons Station Earle Mainside
+store # 21115754 is 14.993590266897714 miles away from Fort Hamilton
+store # 21115754 is 12.992971149547138 miles away from Sector New York
+store # 21031017 is 11.440912418695435 miles away from NAVOPSPTCEN New York City NY
+store # 21031017 is 11.400501075066561 miles away from STA Kings Point
+store # 21127654 is 11.731314200868368 miles away from NAVOPSPTCEN New York City NY
+store # 21127654 is 11.93969015186583 miles away from STA Kings Point
+store # 21121045 is 6.13572955412139 miles away from Mitchel Complex
+store # 21121045 is 14.15003312179834 miles away from NAVOPSPTCEN Long Island NY
+store # 21121045 is 9.074720872899613 miles away from NAVOPSPTCEN New York City NY
+store # 21121045 is 8.14981886640515 miles away from STA Kings Point
+store # 21139342 is 8.157816209626073 miles away from Mitchel Complex
+store # 21139342 is 14.863842370741853 miles away from NAVOPSPTCEN Long Island NY
+store # 21139342 is 6.097669040136654 miles away from NAVOPSPTCEN New York City NY
+store # 21139342 is 4.063565661822044 miles away from STA Kings Point
+store # 21063927 is 6.444641764394654 miles away from Mitchel Complex
+store # 21063927 is 14.203858280916984 miles away from NAVOPSPTCEN Long Island NY
+store # 21063927 is 7.319168654365933 miles away from NAVOPSPTCEN New York City NY
+store # 21063927 is 5.995064710221542 miles away from STA Kings Point
+store # 21056772 is 6.084456077935577 miles away from Fort Hamilton
+store # 21056772 is 12.774277947351763 miles away from NAVOPSPTCEN New York City NY
+store # 21056772 is 7.222155806819281 miles away from Sector New York
+store # 21056772 is 14.67129441321095 miles away from STA Kings Point
+store # 21088995 is 5.173049366281841 miles away from Fort Hamilton
+store # 21088995 is 13.01801301589588 miles away from NAVOPSPTCEN New York City NY
+store # 21088995 is 6.67047823654945 miles away from Sector New York
+store # 21088995 is 14.774464973229483 miles away from STA Kings Point
+store # 21088995 is 14.31812060557538 miles away from US Coast Guard Base Sandy Hook
+store # 21030346 is 5.7914000637267815 miles away from Fort Hamilton
+store # 21030346 is 14.081158666632788 miles away from NAVOPSPTCEN New York City NY
+store # 21030346 is 7.793871779818438 miles away from Sector New York
+store # 21030346 is 11.827985475926415 miles away from US Coast Guard Base Sandy Hook
+store # 21040619 is 11.489921318927477 miles away from Mitchel Complex
+store # 21040619 is 3.6438372356971707 miles away from NAVOPSPTCEN New York City NY
+store # 21040619 is 4.0771912495197435 miles away from STA Kings Point
+store # 21091938 is 10.818960695771485 miles away from Fort Hamilton
+store # 21091938 is 7.5478804518321025 miles away from NAVOPSPTCEN New York City NY
+store # 21091938 is 12.269795436208328 miles away from Sector New York
+store # 21091938 is 9.481610886210769 miles away from STA Kings Point
+store # 21091432 is 11.098149787951558 miles away from Fort Hamilton
+store # 21091432 is 13.961800114019876 miles away from Mitchel Complex
+store # 21091432 is 8.528481552653576 miles away from NAVOPSPTCEN New York City NY
+store # 21091432 is 13.00889568750741 miles away from Sector New York
+store # 21091432 is 9.530697045964937 miles away from STA Kings Point
+store # 21040695 is 1.820456106840848 miles away from Mitchel Complex
+store # 21040695 is 6.530019165791325 miles away from NAVOPSPTCEN Long Island NY
+store # 21040695 is 14.518681273089102 miles away from NAVOPSPTCEN New York City NY
+store # 21040695 is 12.695611882065844 miles away from STA Kings Point
+store # 21092513 is 7.494411341578519 miles away from Mitchel Complex
+store # 21092513 is 13.700586300846371 miles away from NAVOPSPTCEN Long Island NY
+store # 21092513 is 7.461070008946256 miles away from NAVOPSPTCEN New York City NY
+store # 21092513 is 5.358853326905638 miles away from STA Kings Point
+store # 21055640 is 12.303628445215514 miles away from Mitchel Complex
+store # 21055640 is 4.580827501355091 miles away from NAVOPSPTCEN Long Island NY
+store # 21117813 is 11.26690447467338 miles away from NAVOPSPTCEN Long Island NY
+store # 21004148 is 5.340343421429317 miles away from Mitchel Complex
+store # 21004148 is 7.265382260635454 miles away from NAVOPSPTCEN Long Island NY
+store # 21004148 is 14.297029783025568 miles away from NAVOPSPTCEN New York City NY
+store # 21004148 is 12.213110657364817 miles away from STA Kings Point
+store # 21040571 is 7.657975817246585 miles away from Mitchel Complex
+store # 21040571 is 2.5760198692066014 miles away from NAVOPSPTCEN Long Island NY
+store # 21062213 is 14.037515186772753 miles away from NAVOPSPTCEN Long Island NY
+store # 21089179 is 11.767521961205295 miles away from Stewart Air National Guard Base
+store # 21004348 is 7.789127681145009 miles away from Fort Drum
+store # 21058900 is 11.31430710289812 miles away from CG Sector Buffalo
+store # 21058900 is 11.398349840903842 miles away from NAVOPSPTCEN Buffalo NY
+store # 21004354 is 14.582861989618117 miles away from NAVOPSPTCEN Rochester NY
+store # 21054552 is 8.495341883565903 miles away from CG STA Rochester
+store # 21004240 is 11.019601291842788 miles away from CG STA Rochester
+store # 21004240 is 8.635083826845793 miles away from NAVOPSPTCEN Rochester NY
+store # 21093396 is 6.158272286659444 miles away from CG STA Rochester
+store # 21093396 is 7.095245668356921 miles away from NAVOPSPTCEN Rochester NY
+store # 1419 is 3.500882877092568 miles away from NAVOPSPTCEN Pittsburgh PA
+store # 1419 is 12.201242051182305 miles away from USCG MSU Pittsburgh
+store # 21125964 is 8.512593791545386 miles away from USCG MSU Pittsburgh
+store # 21125960 is 8.596840377587013 miles away from NAVOPSPTCEN Pittsburgh PA
+store # 21125960 is 6.918775123335059 miles away from USCG MSU Pittsburgh
+store # 21125963 is 12.670690152008248 miles away from Carlisle Barracks
+store # 21125963 is 5.294843910030407 miles away from NAVOPSPTCEN Harrisburg PA
+store # 21125963 is 2.9032893952442813 miles away from NSA Mechanicsburg
+store # 21125961 is 5.290355794166046 miles away from NAVOPSPTCEN Harrisburg PA
+store # 21125961 is 10.520693972301432 miles away from NSA Mechanicsburg
+store # 21054385 is 7.1456704589444415 miles away from NAVOPSPTCEN Lehigh Valley PA
+store # 21125120 is 9.786072570791239 miles away from NAVOPSPTCEN Lehigh Valley PA
+store # 21125121 is 7.885801848978588 miles away from NAVOPSPTCEN Pittsburgh PA
+store # 21125121 is 4.275477104285574 miles away from USCG MSU Pittsburgh
+store # 6214 is 14.901069670487665 miles away from NAVOPSPTCEN Avoca PA
+store # 21054406 is 8.181875945059288 miles away from NAS Willow Grove
+store # 21028607 is 2.2406596852579024 miles away from NAS Willow Grove
+store # 21028607 is 11.442680323078312 miles away from NSA Philadelphia
+store # 21028597 is 9.208791495399245 miles away from CG Sector Delaware Bay
+store # 21028597 is 10.677013963449342 miles away from NSA Philadelphia
+store # 21054457 is 13.979701715090792 miles away from NAS Willow Grove
+store # 21054457 is 14.609420210994013 miles away from NSA Philadelphia
+store # 6227 is 11.039320074981534 miles away from CG Sector Delaware Bay
+store # 21054340 is 1.6402395173379791 miles away from CG Sector Delaware Bay
+store # 21054340 is 7.747866211593995 miles away from NSA Philadelphia
+store # 6203 is 11.44439472950373 miles away from CG Sector Delaware Bay
+store # 6203 is 10.67811284777287 miles away from NAS Willow Grove
+store # 6203 is 3.7484918325883405 miles away from NSA Philadelphia
+store # 21028612 is 4.660598866063369 miles away from CG Sector Delaware Bay
+store # 21028612 is 14.954593180922743 miles away from NAS Willow Grove
+store # 21028612 is 3.761991544694788 miles away from NSA Philadelphia
+store # 21028592 is 1.407103445350796 miles away from CG Sector Delaware Bay
+store # 21028592 is 9.66364046755172 miles away from NSA Philadelphia
+store # 6274 is 5.786807718019526 miles away from NAS Willow Grove
+store # 21125122 is 14.979141547454962 miles away from CG Sector Delaware Bay
+store # 21125122 is 9.777716814063973 miles away from NAS Willow Grove
+store # 21125122 is 11.499226547562474 miles away from NSA Philadelphia
+store # 21058963 is 3.3920121148825086 miles away from Patuxent River Naval Air Station
+store # 21058963 is 11.274758831216275 miles away from STA St. Indigoes
+store # 21054492 is 6.156832229747914 miles away from Fort Meade
+store # 21054492 is 14.492162990260233 miles away from Walter Reed National Medical Center (WRNMMC, Bethesda, MD)
+store # 21013225 is 13.972710445872426 miles away from Bolling AFB
+store # 21013225 is 10.068755339298113 miles away from Joint Base Anacostia-Bolling
+store # 21013225 is 11.51572154115168 miles away from Joint Base Myer-Henderson Hall
+store # 21013225 is 12.659625620084736 miles away from NAVOPSPTCEN Washington DC
+store # 21013225 is 12.087146315056499 miles away from Pentagon
+store # 21013225 is 12.319575608596137 miles away from USCG Headquarters
+store # 21013225 is 11.88262357596068 miles away from USMC Headquarters
+store # 21013225 is 3.4492614770134 miles away from Walter Reed National Medical Center (WRNMMC, Bethesda, MD)
+store # 21013225 is 11.905534084119266 miles away from Washington Navy Yard
+store # 6267 is 10.745932434191692 miles away from Fort Meade
+store # 21059670 is 8.15874028135385 miles away from Fort Meade
+store # 21059670 is 8.957568407102391 miles away from NAVOPSPTCEN Baltimore MD
+store # 21059670 is 12.09730335263836 miles away from NSA Annapolis/US Naval Academy
+store # 21059670 is 4.899821868808698 miles away from USCG BALTIMORE REGIONAL HOUSING
+store # 6496 is 9.623164265602743 miles away from NAVOPSPTCEN Baltimore MD
+store # 6496 is 12.969406266362714 miles away from USCG BALTIMORE REGIONAL HOUSING
+store # 21013324 is 11.43459371771024 miles away from NAVOPSPTCEN Baltimore MD
+store # 21013324 is 14.575292355157961 miles away from USCG BALTIMORE REGIONAL HOUSING
+store # 21054436 is 14.461819270071826 miles away from Fort Belvoir
+store # 21054436 is 13.138165817555995 miles away from Joint Base Myer-Henderson Hall
+store # 21054436 is 7.31914883455689 miles away from National Reconnaissance Office
+store # 21054436 is 14.410828794096282 miles away from Pentagon
+store # 21054436 is 13.583073806144549 miles away from USMC Headquarters
+store # 21138040 is 7.659725652022288 miles away from Bolling AFB
+store # 21138040 is 9.69701572280293 miles away from Fort Belvoir
+store # 21138040 is 7.546101779306937 miles away from Joint Base Anacostia-Bolling
+store # 21138040 is 14.769249925218482 miles away from Joint Base Andrews Air Force Base
+store # 21138040 is 4.756995737984905 miles away from Joint Base Myer-Henderson Hall
+store # 21138040 is 8.180605310504871 miles away from NAVOPSPTCEN Washington DC
+store # 21138040 is 5.65559480532051 miles away from Pentagon
+store # 21138040 is 7.857246574819259 miles away from USCG Headquarters
+store # 21138040 is 4.972461673665297 miles away from USMC Headquarters
+store # 21138040 is 11.88198788075582 miles away from Walter Reed National Medical Center (WRNMMC, Bethesda, MD)
+store # 21138040 is 9.130653078844519 miles away from Washington Navy Yard
+store # 21054383 is 12.543467843810328 miles away from NAVOPSPTCEN Richmond VA
+store # 6385 is 12.314456984568679 miles away from NAVOPSPTCEN Richmond VA
+store # 21036549 is 10.317133463217205 miles away from Base Portsmouth
+store # 21036549 is 12.945283900086588 miles away from Joint Warfare Center
+store # 21036549 is 10.5924359716091 miles away from NAVOPSPTCEN Norfolk VA
+store # 21036549 is 9.835044328660356 miles away from Norfolk Navy Region Mid-Atlantic Hampton Roads
+store # 6444 is 3.1073446901766157 miles away from Joint Expeditionary Base Little Creek - Fort Story
+store # 6444 is 10.530668450049834 miles away from NAVOPSPTCEN Norfolk VA
+store # 21091343 is 5.575494715274993 miles away from Joint Expeditionary Base Little Creek - Fort Story
+store # 21091343 is 10.136312669928556 miles away from NAVOPSPTCEN Norfolk VA
+store # 21091343 is 13.780263050225159 miles away from Norfolk Navy Region Mid-Atlantic Hampton Roads
+store # 21035868 is 5.903256117645891 miles away from Joint Expeditionary Base Little Creek - Fort Story
+store # C359 is 3.5896418547921254 miles away from Joint Expeditionary Base Little Creek - Fort Story
+store # C359 is 13.20929428263039 miles away from NAVOPSPTCEN Norfolk VA
+store # 21035860 is 6.529048713981451 miles away from Base Portsmouth
+store # 21035860 is 6.390393898844172 miles away from Fort Monroe
+store # 21035860 is 12.027100075818714 miles away from Joint Base Langley Eustis
+store # 21035860 is 8.75706146525106 miles away from Joint Warfare Center
+store # 21035860 is 4.58407623701345 miles away from NAVOPSPTCEN Norfolk VA
+store # 21035860 is 0.8429903859650462 miles away from Norfolk Navy Region Mid-Atlantic Hampton Roads
+store # 6483 is 2.376324588891565 miles away from NAVOPSPTCEN Roanoke VA
+store # 21054332 is 2.801381036703667 miles away from Joint Base Charleston
+store # 21054332 is 4.125873523123859 miles away from NAVOPSPTCEN Charleston SC
+store # 21054332 is 6.132862559869716 miles away from Navy Charleston
+store # 21054332 is 12.45861794343298 miles away from USCG Sector Charleston
+store # 21054372 is 7.3131024355775915 miles away from Joint Base Charleston
+store # 21054372 is 8.083947372955288 miles away from NAVOPSPTCEN Charleston SC
+store # 21054372 is 12.556248956902742 miles away from Navy Charleston
+store # 21054372 is 5.164461620840892 miles away from USCG Sector Charleston
+store # 21032944 is 13.790405610898857 miles away from Joint Base Charleston
+store # 21032944 is 9.845200139557285 miles away from NAVOPSPTCEN Charleston SC
+store # 21032944 is 10.773450466863164 miles away from Navy Charleston
+store # 21032944 is 7.445957013970339 miles away from USCG Sector Charleston
+store # 21138105 is 11.440860989487458 miles away from Joint Base Charleston
+store # 21138105 is 14.071075547058237 miles away from NAVOPSPTCEN Charleston SC
+store # 21138105 is 14.050789009007572 miles away from Navy Charleston
+store # 21008250 is 6.187542763646467 miles away from NAVOPSPTCEN Atlanta GA
+store # 21007456 is 12.488882931918733 miles away from NAVOPSPTCEN Atlanta GA
+store # 21008273 is 14.395326835595181 miles away from Atlanta
+store # 21008273 is 9.326525037226183 miles away from NAVOPSPTCEN Atlanta GA
+store # 6234 is 6.814872330632968 miles away from NAVOPSPTCEN Atlanta GA
+store # 21139385 is 13.689935509645023 miles away from NAVOPSPTCEN Atlanta GA
+store # 6288 is 10.62165749716884 miles away from Atlanta
+store # 21093116 is 10.30193428922149 miles away from Atlanta
+store # 21093116 is 9.622973672373762 miles away from NAVOPSPTCEN Atlanta GA
+store # 6260 is 7.334343409181587 miles away from NAVOPSPTCEN Atlanta GA
+store # 21125679 is 13.713953721168656 miles away from Atlanta
+store # 21125679 is 11.107569122029057 miles away from NAVOPSPTCEN Atlanta GA
+store # 21054402 is 4.044019675531403 miles away from NSCS Athens
+store # 1372 is 4.64747080946147 miles away from MSST Kings Bay
+store # 1372 is 4.71345479735684 miles away from Naval Submarine Base Kings Bay
+store # 21000926 is 6.433628487942529 miles away from NAS Jacksonville
+store # 21000926 is 7.23324928085656 miles away from NAVOPSPTCEN Jacksonville FL
+store # 21129030 is 4.409457107994796 miles away from NAS Jacksonville
+store # 21129030 is 4.801889491054372 miles away from NAVOPSPTCEN Jacksonville FL
+store # 21138971 is 11.72790766697184 miles away from MSST Kings Bay
+store # 21138971 is 10.693630770658313 miles away from Naval Submarine Base Kings Bay
+store # 21003509 is 4.888330120049251 miles away from NAS Jacksonville
+store # 21003509 is 5.685413542878972 miles away from NAVOPSPTCEN Jacksonville FL
+store # 21129029 is 10.707416031836917 miles away from NAS Jacksonville
+store # 21129029 is 10.37408204928717 miles away from NAVOPSPTCEN Jacksonville FL
+store # 21129029 is 9.298410398544693 miles away from NAVSTA Mayport
+store # 21129029 is 7.466214195444671 miles away from USCG Sector Jacksonville
+store # 21129028 is 9.413048819199966 miles away from NAS Jacksonville
+store # 21129028 is 9.404592624783728 miles away from NAVOPSPTCEN Jacksonville FL
+store # 21129028 is 11.225959217149834 miles away from NAVSTA Mayport
+store # 21129028 is 9.940186758396644 miles away from USCG Sector Jacksonville
+store # 21129027 is 8.981518980543424 miles away from NAVSTA Mayport
+store # 21129027 is 9.437633637188604 miles away from USCG Sector Jacksonville
+store # 21054550 is 3.6094876362768487 miles away from Naval Support Activity Panama City
+store # 21054550 is 3.6094876362768487 miles away from Station Panama City
+store # 21031675 is 8.467870059768833 miles away from Eglin AFB
+store # 21031675 is 2.231464164376878 miles away from Station Destin
+store # 21122532 is 11.690929331851036 miles away from NAVOPSPTCEN Orlando FL
+store # 21122532 is 11.652064706445694 miles away from NOSC Orlando
+store # 21122532 is 10.07435324818681 miles away from Orlando FL
+store # 6511 is 8.66364341583167 miles away from NAVOPSPTCEN Orlando FL
+store # 6511 is 8.624690991216863 miles away from NOSC Orlando
+store # 6511 is 8.904761745222908 miles away from Orlando FL
+store # 6597 is 7.560967293640379 miles away from Patrick AFB
+store # 6597 is 13.84929815027473 miles away from USCG Station Port Canaveral
+store # 21000806 is 0.5989707784421038 miles away from NAVOPSPTCEN Miami FL
+store # 21000806 is 9.952046941612842 miles away from USSOUTHCOM and US Army Garrison Miami
+store # 21076348 is 10.793833588725333 miles away from NAVOPSPTCEN Miami FL
+store # 21123462 is 12.39921670110656 miles away from Homestead Air Reserve Base
+store # 21123462 is 9.23214240877752 miles away from USSOUTHCOM and US Army Garrison Miami
+store # 21138311 is 11.228440053359105 miles away from NAVOPSPTCEN Miami FL
+store # 21120967 is 11.724860269313359 miles away from MacDill AFB
+store # 21120967 is 14.498306627867354 miles away from NAVOPSPTCEN Tampa FL
+store # 21128538 is 5.261733058700592 miles away from MacDill AFB
+store # 21128538 is 6.673247482885542 miles away from NAVOPSPTCEN Tampa FL
+store # 21128538 is 11.728166514388999 miles away from USCG Clearwater and St. Petersburg Area Units
+store # 21125580 is 12.755070935972526 miles away from USCG Clearwater and St. Petersburg Area Units
+store # 21128537 is 10.611548548313273 miles away from MacDill AFB
+store # 21128537 is 7.835908353402135 miles away from NAVOPSPTCEN Tampa FL
+store # 21128537 is 9.389952260396065 miles away from USCG Clearwater and St. Petersburg Area Units
+store # 21137480 is 14.88630763800823 miles away from NAVOPSPTCEN Tampa FL
+store # 21137480 is 3.9099902751728752 miles away from USCG Clearwater and St. Petersburg Area Units
+store # 21128058 is 7.798349183812431 miles away from USCG Clearwater and St. Petersburg Area Units
+store # 21137212 is 9.23445269477051 miles away from USCG Station Fort Myers Beach
+store # 21138180 is 13.093993402159754 miles away from USCG Station Fort Myers Beach
+store # 21138367 is 14.616085532179216 miles away from NAVOPSPTCEN Orlando FL
+store # 21138367 is 14.593187323257306 miles away from NOSC Orlando
+store # 21000753 is 11.433142709047186 miles away from NAVOPSPTCEN Bessemer AL
+store # 21000634 is 7.080987470391047 miles away from Redstone Arsenal
+store # 21093397 is 9.57078453245006 miles away from Fort Campbell
+store # 21064040 is 8.774181889608855 miles away from MSD Nashville
+store # 21038236 is 4.5567245401982355 miles away from CGC Ouachita
+store # 21038236 is 6.902019404155025 miles away from NAVOPSPTCEN Chattanooga TN
+store # 21137993 is 2.045097991081698 miles away from MSD Cincinnati
+store # 21137993 is 7.848633741539232 miles away from NAVOPSPTCEN Cincinnati OH
+store # 21091195 is 6.361521550139217 miles away from MSD Cincinnati
+store # 21091195 is 13.299022506306995 miles away from NAVOPSPTCEN Cincinnati OH
+store # 21139261 is 9.472372725083677 miles away from MSD Cincinnati
+store # 21139261 is 8.580986490893276 miles away from NAVOPSPTCEN Cincinnati OH
+store # 21123138 is 14.166114551178856 miles away from NAVOPSPTCEN Columbus OH
+store # 21088992 is 6.4903043682288475 miles away from NAVOPSPTCEN Columbus OH
+store # 21123137 is 11.656110340832491 miles away from NAVOPSPTCEN Columbus OH
+store # 21088982 is 13.791643889261811 miles away from NAVOPSPTCEN Columbus OH
+store # 21125306 is 8.54871790086605 miles away from CG Base Cleveland
+store # 21090159 is 11.532302345766304 miles away from CG Base Cleveland
+store # 21123139 is 8.864566791242583 miles away from CG Base Cleveland
+store # 21088981 is 13.791450771292647 miles away from CG Base Cleveland
+store # 21088976 is 13.538909095237173 miles away from NAVOPSPTCEN Akron OH
+store # 21060722 is 4.591800406201122 miles away from NAVOPSPTCEN Akron OH
+store # 1447 is 13.855007224791093 miles away from NAVOPSPTCEN Cincinnati OH
+store # 21131058 is 6.6975494799426745 miles away from MSD Cincinnati
+store # 21131058 is 1.1424903117836216 miles away from NAVOPSPTCEN Cincinnati OH
+store # 6358 is 14.43078956460213 miles away from MSD Cincinnati
+store # 6358 is 7.166526169045887 miles away from NAVOPSPTCEN Cincinnati OH
+store # 21131056 is 11.467305444791585 miles away from NAVOPSPTCEN Cincinnati OH
+store # 21131057 is 10.050716988765917 miles away from Wright-Patterson AFB
+store # 21138039 is 8.88862751721586 miles away from Detroit Arsenal/U.S. Army Garrison (All Services)
+store # 21138039 is 6.284221606580249 miles away from NAVOPSPTCEN Detroit MI
+store # 21138039 is 6.184627526137119 miles away from Selfridge ANG
+store # 21029028 is 8.620170384850539 miles away from Detroit Arsenal/U.S. Army Garrison (All Services)
+store # 21137213 is 6.672745998067137 miles away from Detroit Arsenal/U.S. Army Garrison (All Services)
+store # 21128298 is 4.942911514689486 miles away from CG Sector Detroit
+store # 21128298 is 6.314966432803582 miles away from Detroit Arsenal/U.S. Army Garrison (All Services)
+store # 21093151 is 10.433553322083648 miles away from CG Sector Detroit
+store # 21093151 is 5.302681591789458 miles away from Detroit Arsenal/U.S. Army Garrison (All Services)
+store # 21093145 is 11.086229424302621 miles away from Detroit Arsenal/U.S. Army Garrison (All Services)
+store # 6337 is 8.593571335095485 miles away from NAVOPSPTCEN Des Moines IA
+store # 21060605 is 12.113846167216499 miles away from CGC Gasconade
+store # 21060605 is 8.950052411937591 miles away from NAVOPSPTCEN Omaha NE
+store # 21060605 is 10.648604881435228 miles away from Offutt AFB
+store # 21061046 is 13.625509492545323 miles away from 347 Recruiting Squadron
+store # 21061046 is 12.485130908956348 miles away from Coast Guard Sector Lake Michigan
+store # 21061046 is 12.392100228573835 miles away from NAVOPSPTCEN Milwaukee WI
+store # 21115373 is 3.328383060877395 miles away from 347 Recruiting Squadron
+store # 21115373 is 8.320271405098499 miles away from Coast Guard Sector Lake Michigan
+store # 21115373 is 8.476078382415665 miles away from NAVOPSPTCEN Milwaukee WI
+store # 21054348 is 13.03180053244631 miles away from 347 Recruiting Squadron
+store # 21054348 is 8.21644767203288 miles away from Coast Guard Sector Lake Michigan
+store # 21054348 is 8.04217721717046 miles away from NAVOPSPTCEN Milwaukee WI
+store # 21088347 is 7.893951002219883 miles away from STA Kenosha
+store # 21054553 is 12.973278461491534 miles away from NAVOPSPTCEN Madison WI
+store # 21139122 is 5.802552422340726 miles away from ANT Green Bay
+store # 21139122 is 4.227645532213244 miles away from NAVOPSPTCEN Green Bay WI
+store # 21056075 is 4.688233869634651 miles away from MSD Minneapolis - St. Paul
+store # 21056075 is 5.703782066277518 miles away from NAVOPSPTCEN Minneapolis MN
+store # 21062246 is 12.889823228156358 miles away from MSD Minneapolis - St. Paul
+store # 21062246 is 14.094899083199735 miles away from NAVOPSPTCEN Minneapolis MN
+store # 21059470 is 9.186596600960222 miles away from MSD Minneapolis - St. Paul
+store # 21059470 is 9.853031152975968 miles away from NAVOPSPTCEN Minneapolis MN
+store # 21001060 is 1.6809297433213761 miles away from MSD Minneapolis - St. Paul
+store # 21001060 is 2.7389932797763525 miles away from NAVOPSPTCEN Minneapolis MN
+store # 21059471 is 5.791808478749401 miles away from MSD Minneapolis - St. Paul
+store # 21059471 is 7.0926538644746175 miles away from NAVOPSPTCEN Minneapolis MN
+store # 21059472 is 4.714493248839154 miles away from MSD Minneapolis - St. Paul
+store # 21059472 is 5.159491252694339 miles away from NAVOPSPTCEN Minneapolis MN
+store # 21054554 is 11.357613772732794 miles away from MSD Minneapolis - St. Paul
+store # 21054554 is 10.953937372775743 miles away from NAVOPSPTCEN Minneapolis MN
+store # 21000983 is 11.787732702517388 miles away from MSD Minneapolis - St. Paul
+store # 21000983 is 13.165457764336894 miles away from NAVOPSPTCEN Minneapolis MN
+store # 21060767 is 9.836910408803593 miles away from MSD Minneapolis - St. Paul
+store # 21060767 is 8.923184057501334 miles away from NAVOPSPTCEN Minneapolis MN
+store # 21000995 is 12.335107919386001 miles away from MSD Minneapolis - St. Paul
+store # 21000995 is 11.071033670463995 miles away from NAVOPSPTCEN Minneapolis MN
+store # 21001103 is 11.47894974435476 miles away from MSD Minneapolis - St. Paul
+store # 21001103 is 10.097725516124008 miles away from NAVOPSPTCEN Minneapolis MN
+store # 21001007 is 5.412699256455338 miles away from MSD Minneapolis - St. Paul
+store # 21001007 is 4.852710791157927 miles away from NAVOPSPTCEN Minneapolis MN
+store # 21054525 is 9.726435265517393 miles away from MSD Minneapolis - St. Paul
+store # 21054525 is 8.606084702756338 miles away from NAVOPSPTCEN Minneapolis MN
+store # 21054485 is 12.666507070458502 miles away from MSD Minneapolis - St. Paul
+store # 21054485 is 12.442135080602364 miles away from NAVOPSPTCEN Minneapolis MN
+store # 21088427 is 6.28221346272952 miles away from MSD Minneapolis - St. Paul
+store # 21088427 is 4.902714587970982 miles away from NAVOPSPTCEN Minneapolis MN
+store # 21036521 is 4.9407506493518225 miles away from NAVOPSPTCEN Sioux Falls SD
+store # 21036520 is 6.400622300397424 miles away from NAVOPSPTCEN Sioux Falls SD
+store # 21122967 is 6.626589074328372 miles away from Ellsworth AFB
+store # 21014907 is 4.871614026056274 miles away from NAVOPSPTCEN Fargo ND
+store # 21061045 is 14.657808005773441 miles away from NAVSTA Great Lakes
+store # 21089187 is 8.369849464214306 miles away from NAVOPSPTCEN Great Lakes  IL
+store # 21089187 is 7.914210140876529 miles away from NAVSTA Great Lakes
+store # 21057725 is 14.470515795400473 miles away from NAVSTA Great Lakes
+store # 21029147 is 7.512274508495848 miles away from NAVOPSPTCEN Great Lakes  IL
+store # 21029147 is 6.524809835860023 miles away from NAVSTA Great Lakes
+store # 1385 is 6.925452906054407 miles away from NAVOPSPTCEN Great Lakes  IL
+store # 1385 is 7.278706390204152 miles away from NAVSTA Great Lakes
+store # 1385 is 12.76884419097561 miles away from STA Kenosha
+store # 21130450 is 9.99840496821168 miles away from NAVOPSPTCEN Great Lakes  IL
+store # 21130450 is 9.097228178025137 miles away from NAVSTA Great Lakes
+store # 21054459 is 12.642007345447515 miles away from NAVOPSPTCEN Great Lakes  IL
+store # 21054459 is 11.955057569464755 miles away from NAVSTA Great Lakes
+store # 21015908 is 12.689801488972602 miles away from MSU Chicago
+store # 21029189 is 8.675159985998878 miles away from MSU Chicago
+store # 21015947 is 10.116784810850074 miles away from MSU Chicago
+store # 21054444 is 9.779774062673585 miles away from MSU Chicago
+store # 21054345 is 12.975643270865012 miles away from MSU Chicago
+store # 21029170 is 9.267389650884706 miles away from MSU Chicago
+store # 21054325 is 3.9931425957647737 miles away from MSU Chicago
+store # 21055620 is 3.6256300776849018 miles away from MSU Chicago
+store # 21019149 is 13.791912117842607 miles away from MSU Chicago
+store # 21057727 is 10.218003617743149 miles away from MSU Chicago
+store # 21054490 is 11.945526656650152 miles away from MSU Chicago
+store # 21054333 is 11.844430871962798 miles away from MSU Chicago
+store # 21123873 is 14.523754828484408 miles away from CG Base Detachment Saint Louis
+store # 21123873 is 11.038469612171662 miles away from NAVOPSPTCEN St Louis MO
+store # 21120920 is 7.2350417642855565 miles away from CG Base Detachment Saint Louis
+store # 21120920 is 8.635903759803933 miles away from NAVOPSPTCEN St Louis MO
+store # 1470 is 11.723561759773533 miles away from Marine Corps Mobilization Command Kansas City
+store # 1470 is 12.952012874907455 miles away from NAVOPSPTCEN Kansas City MO
+store # 21115825 is 3.0780533689246323 miles away from Harry Truman Memorial Veterans Hospital
+store # 21054449 is 4.207122291064006 miles away from NAVOPSPTCEN Springfield MO
+store # 21006613 is 10.07432762229619 miles away from CGC Gasconade
+store # 21006613 is 10.756914710440528 miles away from NAVOPSPTCEN Omaha NE
+store # 21006613 is 10.057084479242894 miles away from Offutt AFB
+store # 21006620 is 12.341713330243447 miles away from CGC Gasconade
+store # 21006620 is 14.912848777663074 miles away from Offutt AFB
+store # 21056513 is 14.98340038533089 miles away from Offutt AFB
+store # 21055622 is 2.9245095848362643 miles away from NAVOPSPTCEN Omaha NE
+store # 21055622 is 1.2774247987608036 miles away from Offutt AFB
+store # 21122494 is 8.21876262807518 miles away from NAVOPSPTCEN Omaha NE
+store # 21122494 is 6.496606836460971 miles away from Offutt AFB
+store # 21006522 is 14.178274246436823 miles away from Offutt AFB
+store # 21006599 is 11.528921862098988 miles away from NAVOPSPTCEN Omaha NE
+store # 21006599 is 9.869927391530368 miles away from Offutt AFB
+store # 21032748 is 13.851038934478876 miles away from NAVOPSPTCEN Oklahoma City OK
+store # 21032748 is 14.482387236451595 miles away from Tinker AFB
+store # 21037774 is 9.379108572255312 miles away from NAS JRB Fort Worth
+store # 21037774 is 9.651926705433578 miles away from NAVOPSPTCEN Fort Worth TX
+store # 21037801 is 4.384027106426867 miles away from NAS JRB Fort Worth
+store # 21037801 is 4.887917532946879 miles away from NAVOPSPTCEN Fort Worth TX
+store # 21054326 is 12.895640804957251 miles away from NAS JRB Fort Worth
+store # 21054326 is 12.924639032162116 miles away from NAVOPSPTCEN Fort Worth TX
+store # 21054521 is 12.730432745597593 miles away from NAS JRB Fort Worth
+store # 21054521 is 12.535871413052114 miles away from NAVOPSPTCEN Fort Worth TX
+store # 21054463 is 14.302491821098622 miles away from Coast Guard Sector Houston Galveston
+store # 21054463 is 14.324680213039045 miles away from NAVOPSPTCEN Houston TX
+store # 21138037 is 5.033485079786997 miles away from Coast Guard Sector Houston Galveston
+store # 21138037 is 4.822683691496773 miles away from NAVOPSPTCEN Houston TX
+store # 21054476 is 3.602257741555632 miles away from Coast Guard Sector Houston Galveston
+store # 21054476 is 3.530877674984267 miles away from NAVOPSPTCEN Houston TX
+store # 21037452 is 12.645841985624706 miles away from Coast Guard Sector Houston Galveston
+store # 21037452 is 12.88394879421173 miles away from NAVOPSPTCEN Houston TX
+store # 21056291 is 6.7951197567264545 miles away from Camp Mabry Austin
+store # 21056291 is 7.772006452895432 miles away from NAVOPSPTCEN Austin TX
+store # 21054545 is 12.801699498573486 miles away from Buckley AFB
+store # 21054545 is 14.285247669113282 miles away from NAVOPSPTCEN Denver CO
+store # 21123096 is 11.764053579028447 miles away from Buckley AFB
+store # 21123096 is 13.025393937574108 miles away from NAVOPSPTCEN Denver CO
+store # 21055624 is 13.513964699375164 miles away from Buckley AFB
+store # 21055624 is 14.137261911695015 miles away from NAVOPSPTCEN Denver CO
+store # 21054354 is 4.368067826050887 miles away from NAVOPSPTCEN Boise ID
+store # 21090596 is 9.369865297998276 miles away from NAVOPSPTCEN Salt Lake City UT
+store # 21127775 is 14.770236507165688 miles away from CG R21 PRO Resident Office
+store # 21127776 is 2.828900877295677 miles away from CG R21 PRO Resident Office
+store # 21127776 is 12.003007733928905 miles away from CG RUITOFF Phoenix
+store # 21139274 is 10.707041531505613 miles away from CG R21 PRO Resident Office
+store # 21137996 is 10.771955955016407 miles away from CG R21 PRO Resident Office
+store # 21137996 is 11.478098765107257 miles away from CG RUITOFF Phoenix
+store # 21138038 is 8.317604661254743 miles away from CG R21 PRO Resident Office
+store # 21138038 is 12.248847365401444 miles away from CG RUITOFF Phoenix
+store # 21002285 is 11.316402469178351 miles away from CG R21 PRO Resident Office
+store # 21128535 is 13.840102330244662 miles away from CG R21 PRO Resident Office
+store # 21128536 is 9.941834122840813 miles away from Luke AFB
+store # 21128536 is 10.223772039358415 miles away from NAVOPSPTCEN Phoenix AZ
+store # 21137368 is 4.640513956100607 miles away from Kirtland AFB
+store # 21137367 is 13.09839473469901 miles away from Loran Station Searchlight
+store # 21061047 is 13.26167091415592 miles away from Loran Station Searchlight
+store # 21061047 is 13.166969590609561 miles away from NAVOPSPTCEN Las Vegas NV
+store # 21061047 is 12.297943733226253 miles away from Nellis AFB
+store # 21139978 is 14.253968232191305 miles away from Loran Station Searchlight
+store # 21093144 is 14.489005069301744 miles away from NAVOPSPTCEN Las Vegas NV
+store # 21093144 is 14.216437609215417 miles away from Nellis AFB
+store # 21054537 is 11.450618897931284 miles away from NAVOPSPTCEN Las Vegas NV
+store # 21054537 is 11.653119593008734 miles away from Nellis AFB
+store # 21058961 is 6.27128126500198 miles away from NAVOPSPTCEN Las Vegas NV
+store # 21058961 is 5.490395745531591 miles away from Nellis AFB
+store # 21054532 is 14.375082474872356 miles away from NAVOPSPTCEN Las Vegas NV
+store # 21054532 is 14.368015303710854 miles away from Nellis AFB
+store # 21139977 is 13.343460234861451 miles away from NAVOPSPTCEN Las Vegas NV
+store # 21139977 is 13.621413164452768 miles away from Nellis AFB
+store # 21138879 is 2.352462432651811 miles away from CGC Edisto
+store # 21138879 is 1.8601710093048245 miles away from DD San Diego
+store # 21138879 is 0.6501280636560609 miles away from MCRD - Marine Corps Recruit Depot
+store # 21138879 is 10.049186304266222 miles away from Miramar MCAS
+store # 21138879 is 5.6901950402336645 miles away from MSD St Thomas, Virgin Islands
+store # 21138879 is 5.6901950402336645 miles away from NAB Coronado
+store # 21138879 is 5.6901950402336645 miles away from Naval Base San Diego
+store # 21138879 is 4.708109969980837 miles away from Naval Sub Base San Diego
+store # 21138879 is 3.7796151691874 miles away from NAVBASE Branch Clinic
+store # 21138879 is 4.014360121004909 miles away from NAVOPSPTCEN North Island CA
+store # 21138879 is 6.187165866983917 miles away from NAVOPSPTCEN San Diego CA
+store # 21138879 is 4.298345568120522 miles away from North Island NAS
+store # 21138879 is 0.734541743290057 miles away from RUITOFF San Diego - North
+store # 21138879 is 10.389688568638796 miles away from RUITOFF San Diego - South
+store # 21138879 is 3.885825419444359 miles away from San Diego Naval Hospital
+store # 21138879 is 1.9742298528594708 miles away from Sector San Diego
+store # 21138879 is 0.5724543513138215 miles away from TACLET PACAREA
+store # C440 is 2.7335372935972657 miles away from CGC Edisto
+store # C440 is 2.400604303800765 miles away from DD San Diego
+store # C440 is 3.2631067723163296 miles away from MCRD - Marine Corps Recruit Depot
+store # C440 is 13.036644784843004 miles away from Miramar MCAS
+store # C440 is 3.4997753552261632 miles away from MSD St Thomas, Virgin Islands
+store # C440 is 3.4997753552261632 miles away from NAB Coronado
+store # C440 is 3.4997753552261632 miles away from Naval Base San Diego
+store # C440 is 2.847189576038553 miles away from Naval Sub Base San Diego
+store # C440 is 3.413153613422598 miles away from NAVBASE Branch Clinic
+store # C440 is 0.6761538422522941 miles away from NAVOPSPTCEN North Island CA
+store # C440 is 3.958955733789415 miles away from NAVOPSPTCEN San Diego CA
+store # C440 is 2.8840243016529796 miles away from North Island NAS
+store # C440 is 4.045031180041049 miles away from RUITOFF San Diego - North
+store # C440 is 7.410448122554882 miles away from RUITOFF San Diego - South
+store # C440 is 3.484595225270919 miles away from San Diego Naval Hospital
+store # C440 is 2.1842362578613383 miles away from Sector San Diego
+store # C440 is 2.991710661807768 miles away from TACLET PACAREA
+store # 21131055 is 6.915017654785885 miles away from CGC Narwhal
+store # 21131386 is 3.173976254709644 miles away from CGC Narwhal
+store # 21131386 is 12.408109300058886 miles away from Naval Weapons Station Seal Beach
+store # 21131385 is 12.093845351814409 miles away from CGC Narwhal
+store # 21131385 is 5.733530008311726 miles away from Naval Weapons Station Seal Beach
+store # 6596 is 12.115541241555155 miles away from CG Sector Portland
+store # 6596 is 12.068013838608858 miles away from NAVOPSPTCEN Portland OR
+store # 6596 is 8.092847122031449 miles away from Oregon State University
+store # 6266 is 7.878074957812438 miles away from 13th District Office
+store # 6266 is 7.819498513457151 miles away from CG Base Seattle
+store # 6266 is 11.57440724171985 miles away from CG RUITOFF Seattle
+store # 6266 is 11.042112420994274 miles away from RB-M Project Resident Office
+store # 21124971 is 8.693358018666226 miles away from 13th District Office
+store # 21124971 is 9.069342125399466 miles away from CG Base Seattle
+store # 21124971 is 9.696865718327041 miles away from CG RUITOFF Seattle
+store # 21124971 is 14.840763517082843 miles away from RB-M Project Resident Office
+store # 6551 is 13.940731085078081 miles away from 13th District Office
+store # 6551 is 13.80051885854956 miles away from CG Base Seattle
+store # 6551 is 11.976209751119706 miles away from RB-M Project Resident Office
+store # 6213 is 11.60136905579511 miles away from CG PSU 313
+store # 6213 is 8.811364827597147 miles away from CG RUITOFF Seattle
+store # 6213 is 11.60136905579511 miles away from CGC Henry Blake
+store # 6213 is 11.291586118296868 miles away from Naval Station Everett
+store # 6213 is 11.2458195858998 miles away from NAVOPSPTCEN Everett WA
+store # 6213 is 10.821582378826955 miles away from PNW Region
+store # 6427 is 11.285283250860667 miles away from 13th District Office
+store # 6427 is 10.387649140713524 miles away from CG Base Seattle
+store # 6427 is 2.3061466226462852 miles away from RB-M Project Resident Office
+store # 6261 is 5.931399373876432 miles away from CG PSU 313
+store # 6261 is 14.710713593066986 miles away from CG RUITOFF Seattle
+store # 6261 is 5.931399373876432 miles away from CGC Henry Blake
+store # 6261 is 5.6149794854413155 miles away from Naval Station Everett
+store # 6261 is 5.5655454977407 miles away from NAVOPSPTCEN Everett WA
+store # 6261 is 5.000216147106656 miles away from PNW Region
+store # 1359 is 5.115873529470442 miles away from CG PSU 313
+store # 1359 is 5.115873529470442 miles away from CGC Henry Blake
+store # 1359 is 5.1665044677923095 miles away from Naval Station Everett
+store # 1359 is 5.164836307611181 miles away from NAVOPSPTCEN Everett WA
+store # 1359 is 4.725845201737206 miles away from PNW Region
+store # 6303 is 9.32684685550041 miles away from CG RUITOFF Tacoma
+store # 6303 is 13.9669731177762 miles away from Fort Lewis
+store # 6303 is 9.650691850829642 miles away from McChord Field
+store # 6259 is 0.46410342928788745 miles away from CG RUITOFF Tacoma
+store # 6259 is 9.666821131314274 miles away from Fort Lewis
+store # 6259 is 11.246780220277541 miles away from Joint Base Lewis-McChord
+store # 6259 is 6.836227957950508 miles away from McChord Field
+store # 6259 is 14.385910301337358 miles away from Station Neah Bay
+store # 6304 is 14.997318384557412 miles away from Station Neah Bay
+store # 9881 is 11.63157286074903 miles away from CG MFPU Bangor
+store # 9881 is 13.613619787744307 miles away from CG RUITOFF Seattle
+store # 9881 is 12.553032548494182 miles away from Naval Base Kitsap - Bangor / Bremerton / Keyport
+store # 9886 is 8.416566626562265 miles away from CG Base Detachment Saint Louis
+store # 9886 is 11.27289100189094 miles away from Scott AFB
+store # 9876 is 1.3013768937043884 miles away from NAVOPSPTCEN Manchester NH
+store # 21058255 is 7.499571319691877 miles away from MSU Chicago
+store # 21055146 is 10.362771501225644 miles away from Mitchel Complex
+store # 21055146 is 3.25959977773501 miles away from NAVOPSPTCEN New York City NY
+store # 21055146 is 2.25232694395683 miles away from STA Kings Point
+store # 21055845 is 14.331759253876765 miles away from Fort Hamilton
+store # 21055845 is 14.885764144476482 miles away from Naval Weapons Station Earle Waterfront
+store # 21055845 is 12.337447586156536 miles away from Sector New York
+store # 21131328 is 3.7216956197867015 miles away from Sector Northern New England
+store # 21057860 is 7.540577062053421 miles away from CG Base Boston
+store # 21057860 is 2.395935488354497 miles away from NAVOPSPTCEN Quincy MA
+store # 5858 is 4.207842020752571 miles away from CG Base Boston
+store # 5858 is 8.537017380522558 miles away from Hanscom AFB
+store # 5858 is 10.9818641361498 miles away from NAVOPSPTCEN Quincy MA
+store # 5858 is 12.926640620829424 miles away from USAG Natick SSC
+store # 9856 is 13.089613531577411 miles away from 347 Recruiting Squadron
+store # 9856 is 12.16969406205072 miles away from STA Kenosha
+store # 7814 is 4.163187670121448 miles away from NAVOPSPTCEN New Castle DE
+store # 9870 is 11.599743627970073 miles away from NAVOPSPTCEN Augusta GA
+store # 9871 is 11.657479499032833 miles away from Minot AFB
+store # 21128807 is 4.119216274259609 miles away from Robins AFB
+Stores within 15 miles of a Base: 649.
+Bases Checked: 349533. Pearle Locations Checked: 547

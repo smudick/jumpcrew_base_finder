@@ -1,0 +1,49 @@
+Greensboro:
+:NAVOPSPTCEN Greensboro NC - 7.53 miles away.
+Durham:
+Cary Crossroads:
+:NAVOPSPTCEN Raleigh NC - 3.86 miles away.
+Winston Salem:
+:NAVOPSPTCEN Greensboro NC - 17.75 miles away.
+Jacksonville:
+:Marine Corps Base Camp Lejeune - 6.97 miles away.
+:Station Emerald Isle Sector NC - 18 miles away.
+Lexington:
+Wilmington:
+:CG Sector North Carolina (Wilmington) - 4.85 miles away.
+:NAVOPSPTCEN Wilmington NC - 5.39 miles away.
+Salisbury:
+High Point:
+:NAVOPSPTCEN Greensboro NC - 11.06 miles away.
+Fayetteville:
+:Fort Bragg - 5.36 miles away.
+:Pope Army Field - 7.23 miles away.
+Wake Forest:
+:NAVOPSPTCEN Raleigh NC - 14.36 miles away.
+Southpoint Durham:
+:NAVOPSPTCEN Raleigh NC - 16.89 miles away.
+Wendover:
+:NAVOPSPTCEN Greensboro NC - 5.39 miles away.
+Greenville NC:
+Burlington:
+Raeford Road:
+:Fort Bragg - 7.87 miles away.
+:Pope Army Field - 10.17 miles away.
+Hope Mills:
+:Fort Bragg - 10.71 miles away.
+:Pope Army Field - 12.78 miles away.
+Charlotte:
+:NAVOPSPTCEN Charlotte NC - 4.18 miles away.
+Hickory:
+Monroe:
+Matthews:
+:NAVOPSPTCEN Charlotte NC - 10.24 miles away.
+Carmel Village:
+:NAVOPSPTCEN Charlotte NC - 13.35 miles away.
+Leland:
+:CG Sector North Carolina (Wilmington) - 5.01 miles away.
+:NAVOPSPTCEN Wilmington NC - 5.83 miles away.
+Northcross Village:
+:NAVOPSPTCEN Charlotte NC - 13.2 miles away.
+Concord:
+:NAVOPSPTCEN Charlotte NC - 16.72 miles away.

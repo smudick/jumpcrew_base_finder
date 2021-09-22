@@ -1,0 +1,146 @@
+North Olmsted:
+:CG Base Cleveland - 12.47 miles away.
+Belden Plaza:
+:NAVOPSPTCEN Akron OH - 4.87 miles away.
+Aurora:
+:MSU Chicago - 13.83 miles away.
+River Oaks:
+Schaumburg:
+Great Lakes:
+:CG Base Cleveland - 15.93 miles away.
+Beaver Valley:
+Pleasant Hills:
+:NAVOPSPTCEN Pittsburgh PA - 6.68 miles away.
+:USCG MSU Pittsburgh - 8.11 miles away.
+Greensburg:
+:NAVOPSPTCEN Pittsburgh PA - 17.11 miles away.
+Robinson Township:
+:USCG MSU Pittsburgh - 8.37 miles away.
+Forest Park:
+:MSU Chicago - 11.97 miles away.
+Irving Park:
+:MSU Chicago - 17.88 miles away.
+Brookfield:
+:347 Recruiting Squadron - 12.41 miles away.
+:Coast Guard Sector Lake Michigan - 11.11 miles away.
+:NAVOPSPTCEN Milwaukee WI - 11.02 miles away.
+Greenfield:
+:347 Recruiting Squadron - 5.76 miles away.
+:Coast Guard Sector Lake Michigan - 6.89 miles away.
+:NAVOPSPTCEN Milwaukee WI - 6.9 miles away.
+Pewaukee:
+Grove City:
+:NAVOPSPTCEN Columbus OH - 6.3 miles away.
+Polaris:
+Easton:
+:NAVOPSPTCEN Columbus OH - 15.97 miles away.
+Skokie:
+Mayfield Heights:
+:CG Base Cleveland - 12.53 miles away.
+Strongsville:
+:CG Base Cleveland - 15 miles away.
+Garfield:
+:CG Base Cleveland - 8.93 miles away.
+Dublin:
+South Plaza:
+:NAVOPSPTCEN Akron OH - 8 miles away.
+Royal Oak:
+:CG Sector Detroit - 14.99 miles away.
+:Detroit Arsenal/U.S. Army Garrison (All Services) - 7.5 miles away.
+Sterling Heights:
+:Detroit Arsenal/U.S. Army Garrison (All Services) - 9.69 miles away.
+:NAVOPSPTCEN Detroit MI - 8.02 miles away.
+:Selfridge ANG - 7.93 miles away.
+Allen Park:
+:CG Sector Detroit - 10.86 miles away.
+:Detroit Arsenal/U.S. Army Garrison (All Services) - 16.78 miles away.
+Canton Ford Road:
+Northville:
+Clearwater:
+:NAVOPSPTCEN Indianapolis IN - 5.61 miles away.
+Stow:
+:NAVOPSPTCEN Akron OH - 16.2 miles away.
+Glen Ellyn:
+:MSU Chicago - 10.36 miles away.
+Rochester Hills:
+:Detroit Arsenal/U.S. Army Garrison (All Services) - 10.98 miles away.
+:NAVOPSPTCEN Detroit MI - 15.36 miles away.
+:Selfridge ANG - 15.27 miles away.
+Cranberry Township:
+Bloomingdale:
+:MSU Chicago - 16.44 miles away.
+Tinley Park:
+:MSU Chicago - 12.11 miles away.
+Rivercrest:
+:MSU Chicago - 11.8 miles away.
+Elgin:
+Chicago Loop:
+Crystal Lake:
+Vernon Hills:
+:NAVOPSPTCEN Great Lakes  IL - 7.29 miles away.
+:NAVSTA Great Lakes - 6.32 miles away.
+Southern Park–Boardman:
+:NAVOPSPTCEN Youngstown OH - 17.25 miles away.
+Eastwood Niles:
+:NAVOPSPTCEN Youngstown OH - 5.48 miles away.
+Fairlawn:
+:NAVOPSPTCEN Akron OH - 17.61 miles away.
+Portage Crossing:
+:NAVOPSPTCEN Akron OH - 16.07 miles away.
+Brunswick:
+Secor Square:
+:MSU Toledo - 5.02 miles away.
+:NAVOPSPTCEN Toledo OH - 8.59 miles away.
+Oregon:
+:MSU Toledo - 3.86 miles away.
+:NAVOPSPTCEN Toledo OH - 6.83 miles away.
+Medina Grande:
+Bainbridge:
+Macedonia:
+:CG Base Cleveland - 16.08 miles away.
+Reynoldsburg:
+:NAVOPSPTCEN Columbus OH - 11.68 miles away.
+Powell:
+Willoughby:
+:CG Base Cleveland - 15.93 miles away.
+Beachwood:
+:CG Base Cleveland - 11.11 miles away.
+Parma:
+:CG Base Cleveland - 9.91 miles away.
+Plainfield:
+:MSU Chicago - 14.93 miles away.
+Avon:
+:CG Base Cleveland - 17.43 miles away.
+Noblesville:
+:NAVOPSPTCEN Indianapolis IN - 12.44 miles away.
+Rock Hill:
+Fort Mill:
+Greenville SC:
+:NAVOPSPTCEN Greenville SC - 6.27 miles away.
+:NAVOPSPTCEN Helena MT - 15.72 miles away.
+Spartanburg:
+Anderson:
+:NAVOPSPTCEN Helena MT - 13.71 miles away.
+York Road:
+Memphis Austin Peay:
+:CG Sector Lower Mississippi - 10.15 miles away.
+:NAVOPSPTCEN Memphis TN - 6.79 miles away.
+:NSA Mid-South - 6.79 miles away.
+Louisville - Cedar Springs:
+:CG Sector Ohio Valley - 11.74 miles away.
+:NAVOPSPTCEN Louisville KY - 9.73 miles away.
+Knoxville - Northwest Crossing:
+:NAVOPSPTCEN Knoxville TN - 6.63 miles away.
+Turkey Creek:
+:NAVOPSPTCEN Knoxville TN - 11.98 miles away.
+Memphis - Park Avenue:
+:CG Sector Lower Mississippi - 9.76 miles away.
+:NAVOPSPTCEN Memphis TN - 15.35 miles away.
+:NSA Mid-South - 15.36 miles away.
+Louisville:
+:CG Sector Ohio Valley - 3.6 miles away.
+:NAVOPSPTCEN Louisville KY - 5.32 miles away.
+Alcoa:
+:NAVOPSPTCEN Knoxville TN - 11.35 miles away.
+Hendersonville:
+:MSD Nashville - 13.97 miles away.

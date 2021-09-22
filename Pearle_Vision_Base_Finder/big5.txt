@@ -1,0 +1,1211 @@
+CHULA VISTA:
+:CGC Edisto - 11.92 miles away.
+:DD San Diego - 11.47 miles away.
+:MCRD - Marine Corps Recruit Depot - 11.11 miles away.
+:MSD St Thomas, Virgin Islands - 6.03 miles away.
+:NAB Coronado - 6.03 miles away.
+:Naval Base San Diego - 6.03 miles away.
+:Naval Sub Base San Diego - 11.48 miles away.
+:NAVBASE Branch Clinic - 8.17 miles away.
+:NAVOPSPTCEN North Island CA - 8.54 miles away.
+:NAVOPSPTCEN San Diego CA - 5.53 miles away.
+:North Island NAS - 7.42 miles away.
+:RUITOFF San Diego - North - 12.43 miles away.
+:RUITOFF San Diego - South - 2.63 miles away.
+:San Diego Naval Hospital - 8.08 miles away.
+:Sector San Diego - 9.74 miles away.
+:TACLET PACAREA - 11.41 miles away.
+LAS VEGAS (FAMILY CENTER):
+:NAVOPSPTCEN Las Vegas NV - 11.01 miles away.
+:Nellis AFB - 10.93 miles away.
+SILVERDALE:
+:CG MFPU Bangor - 3.97 miles away.
+:Naval Base Kitsap - Bangor / Bremerton / Keyport - 2.58 miles away.
+:NAVOPSPTCEN Kitsap WA - 6.82 miles away.
+TACOMA:
+:CG RUITOFF Tacoma - 0.37 miles away.
+:Fort Lewis - 9.66 miles away.
+:Joint Base Lewis-McChord - 11.23 miles away.
+:McChord Field - 6.96 miles away.
+:Station Neah Bay - 14.13 miles away.
+WILSHIRE:
+:CG AIRSTA Los Angeles - 8.87 miles away.
+:CGC Halibut - 7.76 miles away.
+:CGLO MOPIC Los Angeles - 4.1 miles away.
+:MEPS Los Angeles - 3.17 miles away.
+:NAVOPSPTCEN Los Angeles CA - 13.03 miles away.
+:RUITOFF Los Angeles - 5.63 miles away.
+:USAF Clinic El Segundo - 9.87 miles away.
+CANOGA PARK:
+:CGLO MOPIC Los Angeles - 13.36 miles away.
+LAKEWOOD:
+:CG Liaison Air and Marine Ops Center - 10.97 miles away.
+:COAST GUARD BASE LOS ANGELES/ LONG BEACH - 10.97 miles away.
+:Los Angeles AFB - 12.33 miles away.
+:MSST San Diego - 11.79 miles away.
+:Naval Weapons Station Seal Beach - 7.8 miles away.
+:NAVOPSPTCEN Los Angeles CA - 9.48 miles away.
+:USAF Clinic El Segundo - 14.31 miles away.
+CULVER CITY:
+:CG AIRSTA Los Angeles - 4.28 miles away.
+:CGC Halibut - 3.11 miles away.
+:CGLO MOPIC Los Angeles - 4.3 miles away.
+:MEPS Los Angeles - 3.38 miles away.
+:NAVOPSPTCEN Los Angeles CA - 14.09 miles away.
+:RUITOFF Los Angeles - 8.93 miles away.
+:USAF Clinic El Segundo - 5.9 miles away.
+COSTA MESA:
+:CGC Narwhal - 4.39 miles away.
+:Naval Weapons Station Seal Beach - 11.61 miles away.
+TUSTIN:
+:CGC Narwhal - 10.45 miles away.
+EL MONTE:
+:NAVOPSPTCEN Los Angeles CA - 9.84 miles away.
+:RUITOFF Los Angeles - 14.3 miles away.
+DOWNEY:
+:MEPS Los Angeles - 14.6 miles away.
+:Naval Weapons Station Seal Beach - 12.88 miles away.
+:NAVOPSPTCEN Los Angeles CA - 4.5 miles away.
+:RUITOFF Los Angeles - 12.71 miles away.
+:USAF Clinic El Segundo - 14.74 miles away.
+SAN DIEGO:
+:CGC Edisto - 8.72 miles away.
+:DD San Diego - 8.26 miles away.
+:MCRD - Marine Corps Recruit Depot - 6.32 miles away.
+:Miramar MCAS - 3.66 miles away.
+:MSD St Thomas, Virgin Islands - 9.61 miles away.
+:NAB Coronado - 9.61 miles away.
+:Naval Base San Diego - 9.61 miles away.
+:Naval Sub Base San Diego - 11.11 miles away.
+:NAVBASE Branch Clinic - 7.16 miles away.
+:NAVOPSPTCEN North Island CA - 9.63 miles away.
+:NAVOPSPTCEN San Diego CA - 9.94 miles away.
+:North Island NAS - 8.25 miles away.
+:RUITOFF San Diego - North - 6.42 miles away.
+:RUITOFF San Diego - South - 14.26 miles away.
+:San Diego Naval Hospital - 7.2 miles away.
+:Sector San Diego - 7.23 miles away.
+:TACLET PACAREA - 6.94 miles away.
+CORTE MADERA:
+:CG Pacific Strike Team - 8.47 miles away.
+:Station Golden Gate - 7.5 miles away.
+:Yerba Buena Island - 12.05 miles away.
+SAN JOSE (STEVEN'S CREEK):
+:CG RUITOFF San Jose - 0.38 miles away.
+:MEPS Oakland - 8.71 miles away.
+:Moffett Airfield / Camp Parks - 8.38 miles away.
+:NAVOPSPTCEN San Jose CA - 4.6 miles away.
+SAN JOSE (BLOSSOM HILL):
+:CG RUITOFF San Jose - 7.19 miles away.
+:NAVOPSPTCEN San Jose CA - 7.73 miles away.
+SAN DIEGO (ROSECRANS):
+:CGC Edisto - 2.63 miles away.
+:DD San Diego - 2.15 miles away.
+:MCRD - Marine Corps Recruit Depot - 0.69 miles away.
+:Miramar MCAS - 9.76 miles away.
+:MSD St Thomas, Virgin Islands - 5.8 miles away.
+:NAB Coronado - 5.8 miles away.
+:Naval Base San Diego - 5.8 miles away.
+:Naval Sub Base San Diego - 5 miles away.
+:NAVBASE Branch Clinic - 3.79 miles away.
+:NAVOPSPTCEN North Island CA - 4.24 miles away.
+:NAVOPSPTCEN San Diego CA - 6.29 miles away.
+:North Island NAS - 4.38 miles away.
+:RUITOFF San Diego - North - 0.76 miles away.
+:RUITOFF San Diego - South - 10.54 miles away.
+:San Diego Naval Hospital - 3.9 miles away.
+:Sector San Diego - 2.1 miles away.
+:TACLET PACAREA - 0.86 miles away.
+FRESNO (BLACKSTONE):
+:CG RUITOFF Fresno - 3.91 miles away.
+SAN BERNARDINO:
+:March Air Reserve Base - 14.34 miles away.
+:NAVOPSPTCEN Moreno Valley CA - 14.84 miles away.
+:RUITOFF Riverside - 3.93 miles away.
+ORANGE:
+SAN DIEGO (EL CAJON):
+:MCRD - Marine Corps Recruit Depot - 13.75 miles away.
+:Miramar MCAS - 10.51 miles away.
+:MSD St Thomas, Virgin Islands - 12.44 miles away.
+:NAB Coronado - 12.44 miles away.
+:Naval Base San Diego - 12.44 miles away.
+:NAVBASE Branch Clinic - 11.64 miles away.
+:NAVOPSPTCEN North Island CA - 14.73 miles away.
+:NAVOPSPTCEN San Diego CA - 12.3 miles away.
+:North Island NAS - 12.24 miles away.
+:RUITOFF San Diego - North - 14.8 miles away.
+:RUITOFF San Diego - South - 14.32 miles away.
+:San Diego Naval Hospital - 11.57 miles away.
+:Sector San Diego - 13.46 miles away.
+:TACLET PACAREA - 14.53 miles away.
+SAN JOSE (EASTRIDGE):
+:CG RUITOFF San Jose - 7.64 miles away.
+:MEPS Oakland - 14.69 miles away.
+:Moffett Airfield / Camp Parks - 14.19 miles away.
+:NAVOPSPTCEN San Jose CA - 4.15 miles away.
+BAKERSFIELD (MING):
+RIVERSIDE:
+:March Air Reserve Base - 8.89 miles away.
+:NAVOPSPTCEN Moreno Valley CA - 9.64 miles away.
+:RUITOFF Riverside - 8.14 miles away.
+SACRAMENTO (ARDEN WAY):
+:Air Station Sacramento - 5.54 miles away.
+:NAVOPSPTCEN Sacramento CA - 5.93 miles away.
+DALY CITY:
+:AIRSTA San Francisco - 5.08 miles away.
+:CG  Alameda, Oakland, and Yerba Buena Island - 12.81 miles away.
+:NAVOPSPTCEN Alameda CA - 14.28 miles away.
+:Station Golden Gate - 11.53 miles away.
+:Yerba Buena Island - 11.36 miles away.
+SUNNYVALE:
+:CG RUITOFF San Jose - 5.15 miles away.
+:MEPS Oakland - 3.45 miles away.
+:Moffett Airfield / Camp Parks - 3.31 miles away.
+:NAVOPSPTCEN San Jose CA - 8.34 miles away.
+STOCKTON:
+:Marine Corps Reserve Unit Lathrop - 9.66 miles away.
+VISALIA:
+RENO:
+:NAVOPSPTCEN Reno NV - 12.88 miles away.
+SAN LORENZO:
+:CG  Alameda, Oakland, and Yerba Buena Island - 11.03 miles away.
+:NAVOPSPTCEN Alameda CA - 8.59 miles away.
+FREMONT:
+:MEPS Oakland - 10.56 miles away.
+:Moffett Airfield / Camp Parks - 10.21 miles away.
+:NAVOPSPTCEN San Jose CA - 14.29 miles away.
+SACRAMENTO (CITRUS HEIGHTS):
+:Air Station Sacramento - 6.38 miles away.
+:NAVOPSPTCEN Sacramento CA - 13.52 miles away.
+MODESTO:
+EL TORO:
+:CGC Narwhal - 10.31 miles away.
+ANAHEIM (HARBOR):
+:CGC Narwhal - 12.99 miles away.
+:Naval Weapons Station Seal Beach - 10.42 miles away.
+REDWOOD CITY:
+:AIRSTA San Francisco - 13.01 miles away.
+:MEPS Oakland - 10.46 miles away.
+:Moffett Airfield / Camp Parks - 10.91 miles away.
+SIMI VALLEY:
+GRANADA HILLS:
+SANTA MONICA:
+:CG AIRSTA Los Angeles - 7.48 miles away.
+:CGC Halibut - 5.06 miles away.
+:CGLO MOPIC Los Angeles - 2.11 miles away.
+:MEPS Los Angeles - 6.93 miles away.
+:RUITOFF Los Angeles - 11.55 miles away.
+:USAF Clinic El Segundo - 9.81 miles away.
+PINOLE:
+:CG  Alameda, Oakland, and Yerba Buena Island - 14.16 miles away.
+:CG Pacific Strike Team - 13.78 miles away.
+:Station Golden Gate - 14.43 miles away.
+:Station Vallejo - 6.94 miles away.
+:Yerba Buena Island - 12.89 miles away.
+SANTA BARBARA:
+:MSD Santa Barbara - 3.46 miles away.
+SACRAMENTO (MACK ROAD):
+:Air Station Sacramento - 13.93 miles away.
+:NAVOPSPTCEN Sacramento CA - 2.84 miles away.
+VAN NUYS:
+:CGLO MOPIC Los Angeles - 9.95 miles away.
+:MEPS Los Angeles - 13.66 miles away.
+:RUITOFF Los Angeles - 13.67 miles away.
+LA HABRA:
+:Naval Weapons Station Seal Beach - 14.93 miles away.
+:NAVOPSPTCEN Los Angeles CA - 11.97 miles away.
+SAN RAMON:
+:NAVOPSPTCEN Alameda CA - 14.88 miles away.
+OCEANSIDE:
+:MCB Camp Pendleton - 3.56 miles away.
+PUENTE HILLS:
+:NAVOPSPTCEN Los Angeles CA - 13.53 miles away.
+PASADENA:
+:NAVOPSPTCEN Los Angeles CA - 12.05 miles away.
+:RUITOFF Los Angeles - 12.71 miles away.
+SALINAS:
+WESTWOOD TOWN CENTER:
+:13th District Office - 5.87 miles away.
+:CG Base Seattle - 4.87 miles away.
+:CG RUITOFF Seattle - 12.96 miles away.
+:NAVOPSPTCEN Kitsap WA - 13.32 miles away.
+:RB-M Project Resident Office - 9.33 miles away.
+BURIEN:
+:13th District Office - 9.31 miles away.
+:CG Base Seattle - 8.31 miles away.
+:RB-M Project Resident Office - 5.83 miles away.
+SEA-TAC VILLAGE:
+:CG RUITOFF Tacoma - 10.3 miles away.
+:RB-M Project Resident Office - 8 miles away.
+FACTORIA:
+:13th District Office - 7.97 miles away.
+:CG Base Seattle - 7.9 miles away.
+:CG RUITOFF Seattle - 11.71 miles away.
+:RB-M Project Resident Office - 10.94 miles away.
+ALDERWOOD PLAZA:
+:CG PSU 313 - 11.74 miles away.
+:CG RUITOFF Seattle - 8.67 miles away.
+:CGC Henry Blake - 11.74 miles away.
+:Naval Station Everett - 11.43 miles away.
+:NAVOPSPTCEN Everett WA - 11.39 miles away.
+:PNW Region - 10.99 miles away.
+ESCONDIDO:
+CERRITOS:
+:CG Liaison Air and Marine Ops Center - 13.62 miles away.
+:COAST GUARD BASE LOS ANGELES/ LONG BEACH - 13.62 miles away.
+:Los Angeles AFB - 14.99 miles away.
+:MSST San Diego - 14.53 miles away.
+:Naval Weapons Station Seal Beach - 7.99 miles away.
+:NAVOPSPTCEN Los Angeles CA - 9.49 miles away.
+SAN MATEO:
+:AIRSTA San Francisco - 7.65 miles away.
+REDDING:
+TORRANCE (PCH):
+:CG AIRSTA Los Angeles - 11.37 miles away.
+:CG Liaison Air and Marine Ops Center - 5.53 miles away.
+:CGC Halibut - 13.84 miles away.
+:COAST GUARD BASE LOS ANGELES/ LONG BEACH - 5.53 miles away.
+:Los Angeles AFB - 5.61 miles away.
+:MSST San Diego - 4.8 miles away.
+:Naval Weapons Station Seal Beach - 14.39 miles away.
+:USAF Clinic El Segundo - 9.26 miles away.
+CHICO:
+STUDIO CITY:
+:CG AIRSTA Los Angeles - 14.05 miles away.
+:CGC Halibut - 12.37 miles away.
+:CGLO MOPIC Los Angeles - 6.55 miles away.
+:MEPS Los Angeles - 8.8 miles away.
+:RUITOFF Los Angeles - 8.67 miles away.
+YUBA CITY:
+CLOVIS (SHAW):
+:CG RUITOFF Fresno - 4.4 miles away.
+TERRA LINDA:
+:CG CAMSPAC - 14.55 miles away.
+:CG Pacific Strike Team - 3.67 miles away.
+:Station Golden Gate - 12.5 miles away.
+VALENCIA:
+BUENA PARK:
+:Naval Weapons Station Seal Beach - 7.27 miles away.
+:NAVOPSPTCEN Los Angeles CA - 13.97 miles away.
+VICTORVILLE:
+VALLEJO:
+:Station Vallejo - 3.3 miles away.
+ANAHEIM:
+:Naval Weapons Station Seal Beach - 12.4 miles away.
+BURBANK:
+:CGLO MOPIC Los Angeles - 10.92 miles away.
+:MEPS Los Angeles - 11.05 miles away.
+:RUITOFF Los Angeles - 8.07 miles away.
+CHINO:
+RIVERSIDE:
+:March Air Reserve Base - 11.76 miles away.
+:NAVOPSPTCEN Moreno Valley CA - 12.43 miles away.
+:RUITOFF Riverside - 12.73 miles away.
+LANCASTER:
+SANTA MARIA:
+SAN DIMAS:
+PICO RIVERA:
+:NAVOPSPTCEN Los Angeles CA - 4.98 miles away.
+:RUITOFF Los Angeles - 12.25 miles away.
+LAS VEGAS (CHARLESTON):
+:NAVOPSPTCEN Las Vegas NV - 6.79 miles away.
+:Nellis AFB - 6.12 miles away.
+ALHAMBRA:
+:MEPS Los Angeles - 14.17 miles away.
+:NAVOPSPTCEN Los Angeles CA - 6.71 miles away.
+:RUITOFF Los Angeles - 9.06 miles away.
+MIRA MESA:
+:CGC Edisto - 14 miles away.
+:DD San Diego - 13.63 miles away.
+:MCRD - Marine Corps Recruit Depot - 11.83 miles away.
+:Miramar MCAS - 2.46 miles away.
+:NAVBASE Branch Clinic - 12.79 miles away.
+:North Island NAS - 13.88 miles away.
+:RUITOFF San Diego - North - 11.66 miles away.
+:San Diego Naval Hospital - 12.81 miles away.
+:Sector San Diego - 12.85 miles away.
+:TACLET PACAREA - 12.37 miles away.
+NAPA:
+EUREKA:
+:CGC Barracuda - 2.59 miles away.
+:Sector Humboldt Bay - 13.81 miles away.
+:STA Humboldt Bay - 1.55 miles away.
+SAN DIEGO (COLLEGE):
+:CGC Edisto - 9.87 miles away.
+:DD San Diego - 9.23 miles away.
+:MCRD - Marine Corps Recruit Depot - 7.46 miles away.
+:Miramar MCAS - 8.96 miles away.
+:MSD St Thomas, Virgin Islands - 6.09 miles away.
+:NAB Coronado - 6.09 miles away.
+:Naval Base San Diego - 6.09 miles away.
+:Naval Sub Base San Diego - 11.27 miles away.
+:NAVBASE Branch Clinic - 5.1 miles away.
+:NAVOPSPTCEN North Island CA - 8.19 miles away.
+:NAVOPSPTCEN San Diego CA - 6.06 miles away.
+:North Island NAS - 5.72 miles away.
+:RUITOFF San Diego - North - 8.66 miles away.
+:RUITOFF San Diego - South - 9.18 miles away.
+:San Diego Naval Hospital - 5.02 miles away.
+:Sector San Diego - 6.98 miles away.
+:TACLET PACAREA - 8.21 miles away.
+KENT:
+:RB-M Project Resident Office - 2.95 miles away.
+DAVIS:
+TURLOCK:
+NORTHRIDGE:
+:CGLO MOPIC Los Angeles - 13.34 miles away.
+WALNUT CREEK:
+:CG  Alameda, Oakland, and Yerba Buena Island - 14.56 miles away.
+:NAVOPSPTCEN Alameda CA - 13.16 miles away.
+IRVINE:
+:CGC Narwhal - 6.83 miles away.
+BELL GARDENS:
+:CG AIRSTA Los Angeles - 14.58 miles away.
+:MEPS Los Angeles - 11.39 miles away.
+:NAVOPSPTCEN Los Angeles CA - 1.43 miles away.
+:RUITOFF Los Angeles - 9.25 miles away.
+:USAF Clinic El Segundo - 12.63 miles away.
+ALAMEDA:
+:AIRSTA San Francisco - 12.1 miles away.
+:CG  Alameda, Oakland, and Yerba Buena Island - 2.96 miles away.
+:NAVOPSPTCEN Alameda CA - 1.24 miles away.
+:Station Golden Gate - 13.6 miles away.
+:Yerba Buena Island - 7.46 miles away.
+EL SEGUNDO:
+:CG AIRSTA Los Angeles - 2.98 miles away.
+:CG Liaison Air and Marine Ops Center - 14.04 miles away.
+:CGC Halibut - 5.48 miles away.
+:CGLO MOPIC Los Angeles - 10.56 miles away.
+:COAST GUARD BASE LOS ANGELES/ LONG BEACH - 14.04 miles away.
+:Los Angeles AFB - 14.41 miles away.
+:MEPS Los Angeles - 7.34 miles away.
+:MSST San Diego - 13.55 miles away.
+:NAVOPSPTCEN Los Angeles CA - 13.16 miles away.
+:RUITOFF Los Angeles - 11.98 miles away.
+:USAF Clinic El Segundo - 0.39 miles away.
+SAN PEDRO:
+:CG Liaison Air and Marine Ops Center - 1.39 miles away.
+:COAST GUARD BASE LOS ANGELES/ LONG BEACH - 1.39 miles away.
+:Los Angeles AFB - 1.22 miles away.
+:MSST San Diego - 0.36 miles away.
+:Naval Weapons Station Seal Beach - 11.73 miles away.
+:USAF Clinic El Segundo - 13.59 miles away.
+MENLO PARK:
+:MEPS Oakland - 6.85 miles away.
+:Moffett Airfield / Camp Parks - 7.35 miles away.
+ROSEVILLE:
+:Air Station Sacramento - 8.74 miles away.
+SAN BERNARDINO (HIGHLAND):
+:RUITOFF Riverside - 7.23 miles away.
+FRESNO (SHAW):
+:CG RUITOFF Fresno - 0.82 miles away.
+RANCHO CUCAMONGA:
+MORENO VALLEY:
+:March Air Reserve Base - 2.85 miles away.
+:NAVOPSPTCEN Moreno Valley CA - 3.17 miles away.
+:RUITOFF Riverside - 8.41 miles away.
+FONTANA:
+:RUITOFF Riverside - 7.41 miles away.
+BREA:
+THOUSAND OAKS:
+MORGAN HILL:
+MONTEREY PARK:
+:MEPS Los Angeles - 12.19 miles away.
+:NAVOPSPTCEN Los Angeles CA - 3.66 miles away.
+:RUITOFF Los Angeles - 7.79 miles away.
+OLYMPIA:
+:Station Neah Bay - 13.7 miles away.
+PETALUMA:
+:CG Pacific Strike Team - 13.92 miles away.
+:TRACEN Petaluma - 9.47 miles away.
+UKIAH:
+VACAVILLE:
+:Travis AFB - 6.46 miles away.
+MANTECA:
+:Marine Corps Reserve Unit Lathrop - 5.63 miles away.
+SAN FRANCISCO (SLOAT):
+:AIRSTA San Francisco - 9.15 miles away.
+:CG  Alameda, Oakland, and Yerba Buena Island - 11.65 miles away.
+:NAVOPSPTCEN Alameda CA - 13.76 miles away.
+:Station Golden Gate - 7.12 miles away.
+:Yerba Buena Island - 8.67 miles away.
+CAPISTRANO BEACH:
+PORTERVILLE:
+HANFORD:
+:NAS Lemoore - 11.94 miles away.
+:NAVOPSPTCEN Lemoore CA - 13.47 miles away.
+LIVERMORE:
+YUMA:
+:Marine Corps Air Station Yuma - 2.47 miles away.
+EL CENTRO:
+:Naval Air Facility El Centro - 1.83 miles away.
+TEMPE:
+:CG R21 PRO Resident Office - 5.17 miles away.
+:CG RUITOFF Phoenix - 9.68 miles away.
+PHOENIX (PARADISE VALLEY):
+:CG R21 PRO Resident Office - 10.43 miles away.
+:CG RUITOFF Phoenix - 11.02 miles away.
+SPOKANE (DIVISION):
+:CG RUITOFF Spokane - 8.87 miles away.
+:Fairchild AFB - 12.35 miles away.
+:NAVOPSPTCEN Spokane WA - 3.31 miles away.
+SPOKANE (SPRAGUE):
+:CG RUITOFF Spokane - 3.52 miles away.
+:Fairchild AFB - 14.73 miles away.
+:NAVOPSPTCEN Spokane WA - 7.64 miles away.
+YAKIMA:
+:Yakima Training Center - 7.45 miles away.
+KENNEWICK:
+:ANT Kennewick - 1.13 miles away.
+LONG BEACH (PCH):
+:CG Liaison Air and Marine Ops Center - 8.38 miles away.
+:COAST GUARD BASE LOS ANGELES/ LONG BEACH - 8.38 miles away.
+:Los Angeles AFB - 9.72 miles away.
+:MSST San Diego - 9.47 miles away.
+:Naval Weapons Station Seal Beach - 3.76 miles away.
+:NAVOPSPTCEN Los Angeles CA - 14.12 miles away.
+REDLANDS:
+:March Air Reserve Base - 11.67 miles away.
+:NAVOPSPTCEN Moreno Valley CA - 11.92 miles away.
+:RUITOFF Riverside - 5.9 miles away.
+AURORA VILLAGE:
+:13th District Office - 11.97 miles away.
+:CG Base Seattle - 12.96 miles away.
+:CG RUITOFF Seattle - 4.95 miles away.
+WATSONVILLE:
+PHOENIX (BELL):
+:CG RUITOFF Phoenix - 12.71 miles away.
+PHOENIX (THOMAS):
+:CG R21 PRO Resident Office - 6.14 miles away.
+:CG RUITOFF Phoenix - 4.29 miles away.
+EL CERRITO:
+:CG  Alameda, Oakland, and Yerba Buena Island - 9.25 miles away.
+:NAVOPSPTCEN Alameda CA - 10.75 miles away.
+:Station Golden Gate - 10.7 miles away.
+:Station Vallejo - 11.73 miles away.
+:Yerba Buena Island - 7.96 miles away.
+AUBURN:
+LOMPOC:
+:Vandenberg AFB - 7 miles away.
+CAPITOLA:
+BURLINGTON:
+COEUR d'ALENE:
+WENATCHEE:
+MURRIETA:
+LODI:
+CHANDLER:
+:CG R21 PRO Resident Office - 9.51 miles away.
+ENCINO:
+:CGC Halibut - 13.52 miles away.
+:CGLO MOPIC Los Angeles - 7.82 miles away.
+:MEPS Los Angeles - 12.89 miles away.
+:RUITOFF Los Angeles - 14.64 miles away.
+FRESNO (KINGS CANYON):
+:CG RUITOFF Fresno - 8.7 miles away.
+CORONA:
+PORTLAND:
+:CG RUITOFF Vancouver - 9.95 miles away.
+:CG Sector Portland - 9.58 miles away.
+:NAVOPSPTCEN Portland OR - 9.53 miles away.
+:Oregon State University - 6.82 miles away.
+MEDFORD:
+EL PASO (VISCOUNT):
+:Fort Bliss - 4.99 miles away.
+:NAVOPSPTCEN El Paso TX - 5.23 miles away.
+ALBUQUERQUE (SAN MATEO):
+:Kirtland AFB - 4.93 miles away.
+ALBUQUERQUE (JUAN TABO):
+:Kirtland AFB - 4.34 miles away.
+ALBUQUERQUE (COORS):
+:Kirtland AFB - 11.55 miles away.
+SANTA FE:
+FARMINGTON:
+SPRINGFIELD (EUGENE):
+:NAVOPSPTCEN Springfield OR - 3.11 miles away.
+SIERRA VISTA:
+:Fort Huachuca - 6.57 miles away.
+RANCHO SANTA MARGARITA:
+HILLSBORO:
+:CG Sector Portland - 12.5 miles away.
+:NAVOPSPTCEN Portland OR - 12.53 miles away.
+:Oregon State University - 13.77 miles away.
+BEND:
+FLAGSTAFF:
+SONORA:
+HEMET:
+SALEM:
+CORVALLIS:
+PASO ROBLES:
+:Camp Roberts - 12.31 miles away.
+ST. GEORGE:
+TRACY:
+:Marine Corps Reserve Unit Lathrop - 11.96 miles away.
+KLAMATH FALLS:
+BULLHEAD CITY:
+SOLANA BEACH:
+:Miramar MCAS - 10.75 miles away.
+SACRAMENTO (N. HIGHLANDS):
+:Air Station Sacramento - 1.31 miles away.
+:NAVOPSPTCEN Sacramento CA - 12.57 miles away.
+GRANTS PASS:
+WHITTIER:
+:NAVOPSPTCEN Los Angeles CA - 7.8 miles away.
+MILWAUKIE:
+:CG Sector Portland - 12.28 miles away.
+:NAVOPSPTCEN Portland OR - 12.24 miles away.
+:Oregon State University - 8.28 miles away.
+RANCHO BERNARDO:
+:Miramar MCAS - 10.21 miles away.
+LAYTON:
+:CG RUITOFF Salt Lake City - 7.37 miles away.
+:Hill AFB - 2.56 miles away.
+WEST VALLEY:
+:NAVOPSPTCEN Salt Lake City UT - 7.99 miles away.
+TIGARD:
+:CG Sector Portland - 9.53 miles away.
+:NAVOPSPTCEN Portland OR - 9.5 miles away.
+:Oregon State University - 7.03 miles away.
+PLACERVILLE:
+LAKE HAVASU CITY:
+DUBLIN:
+AMMON (IDAHO FALLS):
+TUCSON (SPEEDWAY):
+:Davis-Monthan AFB - 3.61 miles away.
+:NAVOPSPTCEN Tucson AZ - 4.04 miles away.
+:RUITOFF Tucson - 1.28 miles away.
+SEATTLE (BALLARD):
+:13th District Office - 4.41 miles away.
+:CG Base Seattle - 5.3 miles away.
+:CG RUITOFF Seattle - 3.78 miles away.
+:NAVOPSPTCEN Kitsap WA - 14.67 miles away.
+GRESHAM:
+:CG RUITOFF Vancouver - 13.99 miles away.
+:Oregon State University - 13.05 miles away.
+WOODLAND:
+CLOVIS (PRINCE):
+:Cannon AFB - 8.3 miles away.
+ROSEBURG:
+FOLSOM:
+:Air Station Sacramento - 12.43 miles away.
+TWIN FALLS:
+ELKO:
+EL PASO (SOUTH):
+:Fort Bliss - 10.29 miles away.
+:NAVOPSPTCEN El Paso TX - 10.52 miles away.
+COOS BAY:
+:Group Air Station North Bend - 0.38 miles away.
+:Station Coos Bay - 6.22 miles away.
+CASA GRANDE:
+LAS VEGAS (NORTH):
+:NAVOPSPTCEN Las Vegas NV - 6.9 miles away.
+:Nellis AFB - 7.34 miles away.
+MOSES LAKE:
+SUGARHOUSE:
+:NAVOPSPTCEN Salt Lake City UT - 2.99 miles away.
+MURRAY:
+:NAVOPSPTCEN Salt Lake City UT - 9.67 miles away.
+PRESCOTT:
+YORBA LINDA:
+ROHNERT PARK:
+:TRACEN Petaluma - 7.76 miles away.
+RIDGECREST:
+:NAWS China Lake - 3.8 miles away.
+McMINNVILLE:
+OAKDALE:
+ELK GROVE:
+:NAVOPSPTCEN Sacramento CA - 6.22 miles away.
+LAS CRUCES:
+:Loran Station Las Cruces - 11.52 miles away.
+POCATELLO:
+DURANGO:
+MESA:
+:CG R21 PRO Resident Office - 12.46 miles away.
+PEORIA:
+:CG RUITOFF Phoenix - 13.35 miles away.
+:Luke AFB - 6.24 miles away.
+:NAVOPSPTCEN Phoenix AZ - 6.57 miles away.
+BAKERSFIELD:
+LOS ANGELES:
+:CG AIRSTA Los Angeles - 10.72 miles away.
+:CGC Halibut - 10.52 miles away.
+:CGLO MOPIC Los Angeles - 8.29 miles away.
+:MEPS Los Angeles - 4.21 miles away.
+:NAVOPSPTCEN Los Angeles CA - 9.2 miles away.
+:RUITOFF Los Angeles - 1.49 miles away.
+:USAF Clinic El Segundo - 10.68 miles away.
+LOS LUNAS:
+PUEBLO:
+:Pueblo Chemical Depot - 3.59 miles away.
+ALBANY:
+LAS VEGAS:
+LEWISTON:
+BOISE:
+:NAVOPSPTCEN Boise ID - 4.23 miles away.
+TUCSON:
+:Davis-Monthan AFB - 8.02 miles away.
+:NAVOPSPTCEN Tucson AZ - 8.78 miles away.
+:RUITOFF Tucson - 9.34 miles away.
+OREM:
+WALLA WALLA:
+PALMDALE:
+OGDEN:
+:CG RUITOFF Salt Lake City - 6.42 miles away.
+:Hill AFB - 9.26 miles away.
+SEQUIM:
+:Sector Port Angeles - 9.92 miles away.
+CERES:
+GRASS VALLEY:
+CARMICHAEL:
+:Air Station Sacramento - 3.91 miles away.
+:NAVOPSPTCEN Sacramento CA - 10.57 miles away.
+OAK HARBOR:
+:CGC Osprey - 14.08 miles away.
+:NAS Whidbey Island - 3.5 miles away.
+:NAVOPSPTCEN Whidbey Island WA - 3.09 miles away.
+VISTA:
+:MCB Camp Pendleton - 10.17 miles away.
+PHOENIX (SPECTRUM):
+:CG R21 PRO Resident Office - 11.96 miles away.
+:CG RUITOFF Phoenix - 4.68 miles away.
+TULARE:
+RICHLAND:
+:ANT Kennewick - 8.02 miles away.
+RANCHO CORDOVA:
+:Air Station Sacramento - 7.84 miles away.
+:NAVOPSPTCEN Sacramento CA - 8.69 miles away.
+CHEHALIS:
+SPARKS:
+:NAVOPSPTCEN Reno NV - 10.9 miles away.
+LACEY:
+:Fort Lewis - 9.4 miles away.
+:Joint Base Lewis-McChord - 8.08 miles away.
+:McChord Field - 13.71 miles away.
+:Station Neah Bay - 9.69 miles away.
+WEST JORDAN:
+:NAVOPSPTCEN Salt Lake City UT - 13.09 miles away.
+AHWATUKEE:
+:CG R21 PRO Resident Office - 10.91 miles away.
+:CG RUITOFF Phoenix - 10.81 miles away.
+GREEN VALLEY:
+:NAVOPSPTCEN Las Vegas NV - 12.85 miles away.
+:Nellis AFB - 12.07 miles away.
+ANTIOCH:
+:Station Rio Vista - 12.73 miles away.
+PHOENIX:
+:CG RUITOFF Phoenix - 8.84 miles away.
+:Luke AFB - 8.91 miles away.
+:NAVOPSPTCEN Phoenix AZ - 9.17 miles away.
+YUCCA VALLEY:
+MOSCOW:
+MESA (GILBERT):
+:CG R21 PRO Resident Office - 8.09 miles away.
+NAMPA:
+LITTLETON:
+THORNTON:
+HENDERSON:
+:Loran Station Searchlight - 7.43 miles away.
+PHOENIX (METRO):
+:CG RUITOFF Phoenix - 8.92 miles away.
+:Luke AFB - 13.7 miles away.
+:NAVOPSPTCEN Phoenix AZ - 14.04 miles away.
+LA QUINTA:
+CENTERVILLE:
+:Hill AFB - 14.31 miles away.
+:NAVOPSPTCEN Salt Lake City UT - 11.3 miles away.
+MONROE:
+:CG PSU 313 - 14.13 miles away.
+:CGC Henry Blake - 14.13 miles away.
+:Naval Station Everett - 13.93 miles away.
+:NAVOPSPTCEN Everett WA - 13.9 miles away.
+:PNW Region - 13.04 miles away.
+VANCOUVER (MILL PLAIN):
+:CG RUITOFF Vancouver - 4.67 miles away.
+:CG Sector Portland - 10.42 miles away.
+:NAVOPSPTCEN Portland OR - 10.39 miles away.
+:Oregon State University - 10.31 miles away.
+TUCSON (NORTH STONE):
+:Davis-Monthan AFB - 9.59 miles away.
+:NAVOPSPTCEN Tucson AZ - 10.47 miles away.
+:RUITOFF Tucson - 6.19 miles away.
+PALM DESERT:
+AURORA:
+:Buckley AFB - 5.78 miles away.
+:NAVOPSPTCEN Denver CO - 7.33 miles away.
+EL PASO:
+:Fort Bliss - 4.85 miles away.
+:NAVOPSPTCEN El Paso TX - 5.43 miles away.
+SACRAMENTO:
+:Air Station Sacramento - 14.38 miles away.
+:NAVOPSPTCEN Sacramento CA - 6.65 miles away.
+CAMPBELL:
+:CG RUITOFF San Jose - 2.86 miles away.
+:MEPS Oakland - 9.89 miles away.
+:Moffett Airfield / Camp Parks - 9.73 miles away.
+:NAVOPSPTCEN San Jose CA - 7.43 miles away.
+ALBUQUERQUE:
+:Kirtland AFB - 9.83 miles away.
+SPRING VALLEY:
+:CGC Edisto - 14.38 miles away.
+:DD San Diego - 13.75 miles away.
+:MCRD - Marine Corps Recruit Depot - 12.17 miles away.
+:Miramar MCAS - 12.42 miles away.
+:MSD St Thomas, Virgin Islands - 9.42 miles away.
+:NAB Coronado - 9.42 miles away.
+:Naval Base San Diego - 9.42 miles away.
+:NAVBASE Branch Clinic - 9.41 miles away.
+:NAVOPSPTCEN North Island CA - 12.1 miles away.
+:NAVOPSPTCEN San Diego CA - 9.15 miles away.
+:North Island NAS - 9.67 miles away.
+:RUITOFF San Diego - North - 13.43 miles away.
+:RUITOFF San Diego - South - 10.31 miles away.
+:San Diego Naval Hospital - 9.31 miles away.
+:Sector San Diego - 11.46 miles away.
+:TACLET PACAREA - 12.87 miles away.
+IMPERIAL BEACH:
+:CGC Edisto - 12.48 miles away.
+:DD San Diego - 12.22 miles away.
+:MCRD - Marine Corps Recruit Depot - 12.59 miles away.
+:MSD St Thomas, Virgin Islands - 7.76 miles away.
+:NAB Coronado - 7.76 miles away.
+:Naval Base San Diego - 7.76 miles away.
+:Naval Sub Base San Diego - 11.2 miles away.
+:NAVBASE Branch Clinic - 10.25 miles away.
+:NAVOPSPTCEN North Island CA - 9.19 miles away.
+:NAVOPSPTCEN San Diego CA - 7.37 miles away.
+:North Island NAS - 9.23 miles away.
+:RUITOFF San Diego - North - 13.71 miles away.
+:RUITOFF San Diego - South - 3.04 miles away.
+:San Diego Naval Hospital - 10.19 miles away.
+:Sector San Diego - 11.16 miles away.
+:TACLET PACAREA - 12.63 miles away.
+COLORADO SPRINGS (ACADEMY):
+:Cheyenne Mountain Air Station - 11.08 miles away.
+:Fort Carson - 10.15 miles away.
+:NAVOPSPTCEN Fort Carson CO - 10.34 miles away.
+:Peterson AFB, Colorado - 6.99 miles away.
+:Schriever AFB - 14.93 miles away.
+:USAF Academy - 6.2 miles away.
+SOUTH SCOTTSDALE:
+:CG R21 PRO Resident Office - 1.6 miles away.
+:CG RUITOFF Phoenix - 9.65 miles away.
+GILBERT, AZ:
+:CG R21 PRO Resident Office - 12.39 miles away.
+SANDY:
+:NAVOPSPTCEN Salt Lake City UT - 14.17 miles away.
+LAKEWOOD:
+GLENDALE:
+:CGLO MOPIC Los Angeles - 12.27 miles away.
+:MEPS Los Angeles - 10.32 miles away.
+:NAVOPSPTCEN Los Angeles CA - 12.2 miles away.
+:RUITOFF Los Angeles - 5.57 miles away.
+ARVADA:
+GREELEY:
+CARSON:
+:CG AIRSTA Los Angeles - 11.28 miles away.
+:CG Liaison Air and Marine Ops Center - 7.61 miles away.
+:CGC Halibut - 13.76 miles away.
+:COAST GUARD BASE LOS ANGELES/ LONG BEACH - 7.61 miles away.
+:Los Angeles AFB - 8.59 miles away.
+:MEPS Los Angeles - 13.39 miles away.
+:MSST San Diego - 7.76 miles away.
+:Naval Weapons Station Seal Beach - 11.83 miles away.
+:NAVOPSPTCEN Los Angeles CA - 11.51 miles away.
+:USAF Clinic El Segundo - 8.65 miles away.
+ABERDEEN:
+LAS VEGAS (DURANGO):
+:NAVOPSPTCEN Las Vegas NV - 13.34 miles away.
+:Nellis AFB - 13.99 miles away.
+CHINO HILLS:
+HIGHLANDS RANCH:
+:Buckley AFB - 12.68 miles away.
+:NAVOPSPTCEN Denver CO - 13.99 miles away.
+LONGMONT:
+HOLLISTER:
+AMERICAN FORK:
+LOS BANOS:
+PISMO BEACH:
+SALEM:
+GLENDALE:
+:CG RUITOFF Phoenix - 13.93 miles away.
+:Luke AFB - 12.35 miles away.
+:NAVOPSPTCEN Phoenix AZ - 12.65 miles away.
+LA PUENTE:
+:NAVOPSPTCEN Los Angeles CA - 13.25 miles away.
+PORT ORCHARD:
+:13th District Office - 14.54 miles away.
+:CG Base Seattle - 14.1 miles away.
+:CG MFPU Bangor - 12.81 miles away.
+:Naval Base Kitsap - Bangor / Bremerton / Keyport - 11.42 miles away.
+:NAVOPSPTCEN Kitsap WA - 2.04 miles away.
+L.A. (CRENSHAW):
+:CG AIRSTA Los Angeles - 7.16 miles away.
+:CGC Halibut - 7.23 miles away.
+:CGLO MOPIC Los Angeles - 6.85 miles away.
+:MEPS Los Angeles - 1.16 miles away.
+:NAVOPSPTCEN Los Angeles CA - 9.97 miles away.
+:RUITOFF Los Angeles - 4.84 miles away.
+:USAF Clinic El Segundo - 7.16 miles away.
+SANTA ANA:
+:CGC Narwhal - 10.84 miles away.
+:Naval Weapons Station Seal Beach - 11.62 miles away.
+HAZEL DELL:
+:CG RUITOFF Vancouver - 3.82 miles away.
+:CG Sector Portland - 8.16 miles away.
+:NAVOPSPTCEN Portland OR - 8.17 miles away.
+:Oregon State University - 11.19 miles away.
+ALAMOGORDO:
+:Holloman AFB - 9.11 miles away.
+KINGMAN:
+N. FRESNO:
+:CG RUITOFF Fresno - 7.12 miles away.
+LAKEWOOD:
+:CG RUITOFF Tacoma - 4.04 miles away.
+:Fort Lewis - 5.31 miles away.
+:Joint Base Lewis-McChord - 6.89 miles away.
+:McChord Field - 3.03 miles away.
+:Station Neah Bay - 12.32 miles away.
+MINDEN:
+ROSWELL:
+OROVILLE:
+AURORA (QUINCY AVE.):
+:Buckley AFB - 4.86 miles away.
+:NAVOPSPTCEN Denver CO - 5.5 miles away.
+TEMECULA:
+AVONDALE(GOODYEAR):
+:Luke AFB - 5.59 miles away.
+:NAVOPSPTCEN Phoenix AZ - 5.62 miles away.
+PORTLAND:
+:CG RUITOFF Vancouver - 12.13 miles away.
+:CG Sector Portland - 9.24 miles away.
+:NAVOPSPTCEN Portland OR - 9.19 miles away.
+:Oregon State University - 5.52 miles away.
+RESEDA:
+:CGLO MOPIC Los Angeles - 10.93 miles away.
+LAKE ELSINORE:
+:NAVOPSPTCEN Moreno Valley CA - 14.91 miles away.
+HENDERSON:
+THE DALLES:
+COVINA:
+DENVER:
+:Buckley AFB - 9.15 miles away.
+:NAVOPSPTCEN Denver CO - 10.66 miles away.
+MONTEREY (FREMONT):
+:Defense Language Institute - 2.89 miles away.
+:Naval Post-Graduate School - 1.71 miles away.
+:Presidio of Monterey/Defense Language Institute/Naval Postgraduate School - 1.71 miles away.
+:Station Monterey - 2.36 miles away.
+FORT COLLINS:
+SELMA:
+DENVER (QUEBEC SQUARE):
+:Buckley AFB - 8.15 miles away.
+:NAVOPSPTCEN Denver CO - 9.2 miles away.
+CONCORD:
+:Station Vallejo - 13.36 miles away.
+ATASCADERO:
+:USCG Station Morro Bay - 13.26 miles away.
+SURPRISE:
+:Luke AFB - 6.52 miles away.
+:NAVOPSPTCEN Phoenix AZ - 6.63 miles away.
+SPANISH FORK:
+HOBBS:
+ARVADA:
+LOGAN:
+REXBURG:
+COLORADO SPRINGS (SW):
+:Cheyenne Mountain Air Station - 7.32 miles away.
+:Fort Carson - 6.88 miles away.
+:NAVOPSPTCEN Fort Carson CO - 7.71 miles away.
+:Peterson AFB, Colorado - 8.16 miles away.
+:USAF Academy - 8.13 miles away.
+APPLE VALLEY:
+EUGENE:
+:NAVOPSPTCEN Springfield OR - 6.05 miles away.
+N. BOISE:
+:NAVOPSPTCEN Boise ID - 7.86 miles away.
+CLINTON:
+:CG RUITOFF Salt Lake City - 2.34 miles away.
+:Hill AFB - 4.48 miles away.
+SUNNYSIDE:
+RED BLUFF:
+VENTURA:
+:Naval Base Ventura County - 6.78 miles away.
+:NAVOPSPTCEN Ventura County CA - 6.73 miles away.
+:NSWC Port Hueneme - 7.66 miles away.
+:USCG Station Channel Islands Harbor/MSD SANTA BARBARA - 7.09 miles away.
+WALNUT PARK:
+:CG AIRSTA Los Angeles - 10.79 miles away.
+:CGC Halibut - 12.21 miles away.
+:CGLO MOPIC Los Angeles - 13.51 miles away.
+:MEPS Los Angeles - 7.77 miles away.
+:NAVOPSPTCEN Los Angeles CA - 4.17 miles away.
+:RUITOFF Los Angeles - 7.12 miles away.
+:USAF Clinic El Segundo - 9.01 miles away.
+APACHE JUNCTION:
+HERMISTON:
+PERRIS:
+:March Air Reserve Base - 7.03 miles away.
+:NAVOPSPTCEN Moreno Valley CA - 6.51 miles away.
+CASTLE ROCK:
+FONTANA:
+:RUITOFF Riverside - 9.46 miles away.
+MADERA:
+REDMOND:
+SHOW LOW:
+TOOELE:
+ALBUQUERQUE NE:
+:Kirtland AFB - 8.91 miles away.
+ATWATER:
+CARLSBAD:
+SANDPOINT:
+RIO RANCHO:
+PARKER:
+:Buckley AFB - 11.02 miles away.
+:NAVOPSPTCEN Denver CO - 11.69 miles away.
+LAS VEGAS SW:
+CANYON COUNTRY:
+TUCSON NW:
+:Davis-Monthan AFB - 14.75 miles away.
+:RUITOFF Tucson - 11.52 miles away.
+CHEYENNE:
+:F.E. Warren AFB - 3.37 miles away.
+:NAVOPSPTCEN F E Warren Afb, WY - 3.38 miles away.
+TEHACHAPI:
+OXNARD (HWY 1):
+:Naval Base Ventura County - 4.05 miles away.
+:NAVOPSPTCEN Ventura County CA - 4.46 miles away.
+:NSWC Port Hueneme - 5.46 miles away.
+:USCG Station Channel Islands Harbor/MSD SANTA BARBARA - 5.17 miles away.
+POULSBO:
+:CG MFPU Bangor - 4.39 miles away.
+:Naval Base Kitsap - Bangor / Bremerton / Keyport - 5.49 miles away.
+:NAVOPSPTCEN Kitsap WA - 13.98 miles away.
+SANTA ROSA (CLEVELAND):
+:TRACEN Petaluma - 14.71 miles away.
+SEATTLE (NORTHGATE):
+:13th District Office - 7.29 miles away.
+:CG Base Seattle - 8.29 miles away.
+:CG RUITOFF Seattle - 0.23 miles away.
+LAS VEGAS (SUMMERLIN):
+:NAVOPSPTCEN Las Vegas NV - 12.05 miles away.
+:Nellis AFB - 12.26 miles away.
+BEAVERTON:
+:CG Sector Portland - 6.93 miles away.
+:NAVOPSPTCEN Portland OR - 6.93 miles away.
+:Oregon State University - 6.38 miles away.
+DINUBA:
+RENTON (GRADY WAY):
+:13th District Office - 10.88 miles away.
+:CG Base Seattle - 10.13 miles away.
+:RB-M Project Resident Office - 3.61 miles away.
+GIG HARBOR (HARBOR HILL):
+:CG RUITOFF Tacoma - 11.42 miles away.
+:NAVOPSPTCEN Kitsap WA - 14.06 miles away.
+:Station Neah Bay - 13.5 miles away.
+JACKSON:
+VANCOUVER (PLAIN ROAD):
+:CG RUITOFF Vancouver - 1.69 miles away.
+:CG Sector Portland - 10.18 miles away.
+:NAVOPSPTCEN Portland OR - 10.17 miles away.
+:Oregon State University - 11.55 miles away.
+CAMARILLO:
+:Naval Base Ventura County - 10.35 miles away.
+:NAVOPSPTCEN Ventura County CA - 11.09 miles away.
+:NSWC Port Hueneme - 11.74 miles away.
+:USCG Station Channel Islands Harbor/MSD SANTA BARBARA - 11.86 miles away.
+INGLEWOOD (CRENSHAW):
+:CG AIRSTA Los Angeles - 5.39 miles away.
+:CG Liaison Air and Marine Ops Center - 14.05 miles away.
+:CGC Halibut - 7.44 miles away.
+:CGLO MOPIC Los Angeles - 11.1 miles away.
+:COAST GUARD BASE LOS ANGELES/ LONG BEACH - 14.05 miles away.
+:Los Angeles AFB - 14.69 miles away.
+:MEPS Los Angeles - 6.41 miles away.
+:MSST San Diego - 13.81 miles away.
+:NAVOPSPTCEN Los Angeles CA - 10.06 miles away.
+:RUITOFF Los Angeles - 9.86 miles away.
+:USAF Clinic El Segundo - 3.16 miles away.
+HUNTINGTON BEACH:
+:CGC Narwhal - 8.81 miles away.
+:Naval Weapons Station Seal Beach - 6.8 miles away.
+CARSON CITY:
+SAN BRUNO:
+:AIRSTA San Francisco - 1.26 miles away.
+:CG  Alameda, Oakland, and Yerba Buena Island - 12.91 miles away.
+:NAVOPSPTCEN Alameda CA - 13.71 miles away.
+:Station Golden Gate - 14.59 miles away.
+:Yerba Buena Island - 12.87 miles away.
+COALINGA:
+COVINGTON:
+:RB-M Project Resident Office - 7.31 miles away.
+LA MIRADA:
+:Naval Weapons Station Seal Beach - 11.23 miles away.
+:NAVOPSPTCEN Los Angeles CA - 11.03 miles away.
+PLEASANT HILL:
+:Station Vallejo - 11.34 miles away.
+OMAK:
+ONTARIO:
+COTTONWOOD:
+WARRENTON:
+:CG Station Cape Disappointment - 12.04 miles away.
+:CGC Fir - 6.21 miles away.
+:Group Air Station Astoria - 1.07 miles away.
+RAMONA:
+OAKHURST:
+PALM SPRINGS:
+CHANDLER:
+THATCHER:
+BELLINGHAM:
+:STA Bellingham - 3.16 miles away.
+UPLAND:
+POMONA:
+RUIDOSO:
+PRICE:
+BOTHELL:
+:13th District Office - 14.2 miles away.
+:CG PSU 313 - 13.87 miles away.
+:CG RUITOFF Seattle - 7.82 miles away.
+:CGC Henry Blake - 13.87 miles away.
+:Naval Station Everett - 13.55 miles away.
+:NAVOPSPTCEN Everett WA - 13.5 miles away.
+:PNW Region - 12.9 miles away.
+BIG BEAR:
+PAYSON:
+RICHFIELD:
+SOUTH LAKE TAHOE:
+PUYALLUP:
+:CG RUITOFF Tacoma - 11.65 miles away.
+:Fort Lewis - 13.49 miles away.
+:Joint Base Lewis-McChord - 14.53 miles away.
+:McChord Field - 9.48 miles away.
+MERCED (West Olive):
+LONGVIEW:
+POWAY:
+:Miramar MCAS - 6.75 miles away.
+LAVEEN:
+:CG R21 PRO Resident Office - 14.84 miles away.
+:CG RUITOFF Phoenix - 6.5 miles away.
+GALLUP:
+COACHELLA:
+CANON CITY:
+GREEN VALLEY:
+TAOS:
+SUSANVILLE:
+HAYWARD:
+:CG  Alameda, Oakland, and Yerba Buena Island - 13.58 miles away.
+:NAVOPSPTCEN Alameda CA - 11.07 miles away.
+NORTH PHOENIX:
+SANTA PAULA:
+:Naval Base Ventura County - 13.76 miles away.
+:NAVOPSPTCEN Ventura County CA - 14.27 miles away.
+PRESCOTT:
+FALLON:
+:LORSTA Fallon - 6.1 miles away.
+:NAS Fallon - 5.15 miles away.
+DELANO:
+SAN LUIS OBISPO:
+:USCG Station Morro Bay - 14.77 miles away.
+AUBURN:
+:CG RUITOFF Tacoma - 13.68 miles away.
+:RB-M Project Resident Office - 7.09 miles away.
+PAHRUMP:
+CATHEDRAL CITY:
+CANBY:
+EVERETT:
+:CG PSU 313 - 4.56 miles away.
+:CGC Henry Blake - 4.56 miles away.
+:Naval Station Everett - 4.24 miles away.
+:NAVOPSPTCEN Everett WA - 4.19 miles away.
+:PNW Region - 3.68 miles away.
+CRESCENT CITY:
+:CGC Dorado - 1.57 miles away.
+TORRANCE:
+:CG AIRSTA Los Angeles - 6.21 miles away.
+:CG Liaison Air and Marine Ops Center - 10.6 miles away.
+:CGC Halibut - 8.75 miles away.
+:CGLO MOPIC Los Angeles - 14.01 miles away.
+:COAST GUARD BASE LOS ANGELES/ LONG BEACH - 10.6 miles away.
+:Los Angeles AFB - 10.96 miles away.
+:MEPS Los Angeles - 10.4 miles away.
+:MSST San Diego - 10.1 miles away.
+:NAVOPSPTCEN Los Angeles CA - 13.54 miles away.
+:RUITOFF Los Angeles - 14.33 miles away.
+:USAF Clinic El Segundo - 3.84 miles away.
+LINCOLN:
+:Air Station Sacramento - 14.7 miles away.
+REDMOND:
+:13th District Office - 11.2 miles away.
+:CG Base Seattle - 11.75 miles away.
+:CG RUITOFF Seattle - 10.11 miles away.
+TUJUNGA:
+:RUITOFF Los Angeles - 12 miles away.
+HIGHLAND PARK:
+:MEPS Los Angeles - 11.76 miles away.
+:NAVOPSPTCEN Los Angeles CA - 8.83 miles away.
+:RUITOFF Los Angeles - 6.16 miles away.
+NEWPORT:
+:Station Depoe Bay - 12.02 miles away.
+:Station Yaquina Bay - 0.63 miles away.
+CARLSBAD:
+:MCB Camp Pendleton - 12.93 miles away.
+:Miramar MCAS - 14.95 miles away.
+JURUPA VALLEY:
+:March Air Reserve Base - 12.84 miles away.
+:NAVOPSPTCEN Moreno Valley CA - 13.59 miles away.
+:RUITOFF Riverside - 9.97 miles away.
+WOODBURN:
+SAN JOSE:
+:CG RUITOFF San Jose - 4.83 miles away.
+:MEPS Oakland - 12.54 miles away.
+:Moffett Airfield / Camp Parks - 12.1 miles away.
+:NAVOPSPTCEN San Jose CA - 3.18 miles away.
+GARDENA:
+:CG AIRSTA Los Angeles - 6.23 miles away.
+:CG Liaison Air and Marine Ops Center - 12.02 miles away.
+:CGC Halibut - 8.6 miles away.
+:CGLO MOPIC Los Angeles - 12.9 miles away.
+:COAST GUARD BASE LOS ANGELES/ LONG BEACH - 12.02 miles away.
+:Los Angeles AFB - 12.65 miles away.
+:MEPS Los Angeles - 8.44 miles away.
+:MSST San Diego - 11.77 miles away.
+:NAVOPSPTCEN Los Angeles CA - 10.81 miles away.
+:RUITOFF Los Angeles - 11.75 miles away.
+:USAF Clinic El Segundo - 3.59 miles away.
+NOGALES:
+BANNING:
+ESPANOLA:
+MARICOPA:
+LAS VEGAS (Tropicana):
+:NAVOPSPTCEN Las Vegas NV - 11.14 miles away.
+:Nellis AFB - 10.46 miles away.
+SPOKANE VALLEY:
+:CG RUITOFF Spokane - 2.88 miles away.
+:NAVOPSPTCEN Spokane WA - 13.54 miles away.
+MONTROSE:
+FAIRFIELD (Gateway):
+:Travis AFB - 5.81 miles away.
+YUCAIPA:
+:NAVOPSPTCEN Moreno Valley CA - 14.82 miles away.
+:RUITOFF Riverside - 14.89 miles away.
+LA GRANDE:
+GILROY:
+SAN YSIDRO:
+:MSD St Thomas, Virgin Islands - 11.44 miles away.
+:NAB Coronado - 11.44 miles away.
+:Naval Base San Diego - 11.44 miles away.
+:Naval Sub Base San Diego - 14.98 miles away.
+:NAVBASE Branch Clinic - 13.9 miles away.
+:NAVOPSPTCEN North Island CA - 13.03 miles away.
+:NAVOPSPTCEN San Diego CA - 11.01 miles away.
+:North Island NAS - 12.92 miles away.
+:RUITOFF San Diego - South - 6.59 miles away.
+:San Diego Naval Hospital - 13.83 miles away.
+:Sector San Diego - 14.95 miles away.
+CLEARLAKE:
+:LORAN Station Middletown - 12.92 miles away.
+SACRAMENTO (Freeway):
+:Air Station Sacramento - 6.09 miles away.
+:NAVOPSPTCEN Sacramento CA - 10.4 miles away.
+GRAND JUNCTION:
+PITTSBURG:
+:Station Rio Vista - 12 miles away.
+BISHOP:
