@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w092lFodeMWffJWsI9+VOyY5Ik7OujdSoimhzn7ep/KZ4aMSsl4MFzbqQswkLepv3kVykVwilyE4+D3RVsjf/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\smudi\\source\\repos\\Pearle_Vision_Base_Finder\\Pearle_Vision_Base_Finder\\Pearle_Vision_Base_Finder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smudi\\.nuget\\packages\\lumenworkscsvreader\\4.0.0\\lumenworkscsvreader.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

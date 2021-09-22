@@ -1,0 +1,15 @@
+C:\Users\smudi\source\repos\Pearle_Vision_Base_Finder\Pearle_Vision_Base_Finder\bin\Debug\netcoreapp3.1\Pearle_Vision_Base_Finder.exe
+C:\Users\smudi\source\repos\Pearle_Vision_Base_Finder\Pearle_Vision_Base_Finder\bin\Debug\netcoreapp3.1\Pearle_Vision_Base_Finder.deps.json
+C:\Users\smudi\source\repos\Pearle_Vision_Base_Finder\Pearle_Vision_Base_Finder\bin\Debug\netcoreapp3.1\Pearle_Vision_Base_Finder.runtimeconfig.json
+C:\Users\smudi\source\repos\Pearle_Vision_Base_Finder\Pearle_Vision_Base_Finder\bin\Debug\netcoreapp3.1\Pearle_Vision_Base_Finder.runtimeconfig.dev.json
+C:\Users\smudi\source\repos\Pearle_Vision_Base_Finder\Pearle_Vision_Base_Finder\bin\Debug\netcoreapp3.1\Pearle_Vision_Base_Finder.dll
+C:\Users\smudi\source\repos\Pearle_Vision_Base_Finder\Pearle_Vision_Base_Finder\bin\Debug\netcoreapp3.1\Pearle_Vision_Base_Finder.pdb
+C:\Users\smudi\source\repos\Pearle_Vision_Base_Finder\Pearle_Vision_Base_Finder\bin\Debug\netcoreapp3.1\LumenWorks.Framework.IO.dll
+C:\Users\smudi\source\repos\Pearle_Vision_Base_Finder\Pearle_Vision_Base_Finder\obj\Debug\netcoreapp3.1\Pearle_Vision_Base_Finder.csprojAssemblyReference.cache
+C:\Users\smudi\source\repos\Pearle_Vision_Base_Finder\Pearle_Vision_Base_Finder\obj\Debug\netcoreapp3.1\Pearle_Vision_Base_Finder.AssemblyInfoInputs.cache
+C:\Users\smudi\source\repos\Pearle_Vision_Base_Finder\Pearle_Vision_Base_Finder\obj\Debug\netcoreapp3.1\Pearle_Vision_Base_Finder.AssemblyInfo.cs
+C:\Users\smudi\source\repos\Pearle_Vision_Base_Finder\Pearle_Vision_Base_Finder\obj\Debug\netcoreapp3.1\Pearle_Vision_Base_Finder.csproj.CoreCompileInputs.cache
+C:\Users\smudi\source\repos\Pearle_Vision_Base_Finder\Pearle_Vision_Base_Finder\obj\Debug\netcoreapp3.1\Pearle_Vision_Base_Finder.csproj.CopyComplete
+C:\Users\smudi\source\repos\Pearle_Vision_Base_Finder\Pearle_Vision_Base_Finder\obj\Debug\netcoreapp3.1\Pearle_Vision_Base_Finder.dll
+C:\Users\smudi\source\repos\Pearle_Vision_Base_Finder\Pearle_Vision_Base_Finder\obj\Debug\netcoreapp3.1\Pearle_Vision_Base_Finder.pdb
+C:\Users\smudi\source\repos\Pearle_Vision_Base_Finder\Pearle_Vision_Base_Finder\obj\Debug\netcoreapp3.1\Pearle_Vision_Base_Finder.genruntimeconfig.cache

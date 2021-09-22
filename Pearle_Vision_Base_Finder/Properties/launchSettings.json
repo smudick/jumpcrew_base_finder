@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Pearle_Vision_Base_Finder": {
+      "commandName": "Project",
+      "commandLineArgs": "--file1=C:\\Users\\smudi\\Downloads\\Bases.csv --file2=C:\\Users\\smudi\\Downloads\\PepBoys.csv"
+    }
+  }
+}

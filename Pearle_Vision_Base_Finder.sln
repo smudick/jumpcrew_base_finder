@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pearle_Vision_Base_Finder", "Pearle_Vision_Base_Finder\Pearle_Vision_Base_Finder.csproj", "{419B3259-E654-469E-8B9F-9CA1E86E1336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{419B3259-E654-469E-8B9F-9CA1E86E1336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419B3259-E654-469E-8B9F-9CA1E86E1336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419B3259-E654-469E-8B9F-9CA1E86E1336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419B3259-E654-469E-8B9F-9CA1E86E1336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87CCC4E5-0061-4DA3-ADE2-AD7FD8DAABDE}
+	EndGlobalSection
+EndGlobal
